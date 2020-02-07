@@ -1,0 +1,4604 @@
+,station,station_code
+0,A N Dev Nagar,ACND
+1,Abhaipur,AHA
+2,Abhayapuri Asam,AYU
+3,Abohar,ABS
+4,Abu Road,ABR
+5,Achalda,ULD
+6,Achhnera Junction,AH
+7,Adas Road,ADD
+8,Adavali,ADVI
+9,Adesar,AAR
+10,Adgaon Buzurg,ABZ
+11,Adhartal,ADTL
+12,Adhikari,ADQ
+13,Adi Saptagram,ADST
+14,Adilabad,ADB
+15,Adina,ADF
+16,Adipur,AI
+17,Adityapur,ADTP
+18,Adoni,AD
+19,Adra Junction,ADRA
+20,Adrsh Ngr Delhi,ANDI
+21,Aduturai,ADT
+22,Agartala,AGTL
+23,Agasod,AGD
+24,Aghwanpur,AWP
+25,Agomoni,AGMN
+26,Agori Khas,AGY
+27,Agra Cantt,AGC
+28,Agra City,AGA
+29,Agra Fort,AF
+30,Ahalyapur,AHLR
+31,Aherwadi,AHD
+32,Ahiran,AHN
+33,Ahmadgarh,AHH
+34,Ahmadnagar,ANG
+35,Ahmadpur Junction,AMP
+36,Ahmedabad Junction,ADI
+37,Ahmedabad Mg,ADIJ
+38,Ahraura Road,ARW
+39,Aishbagh,ASH
+40,Ait,AIT
+41,Aithal,ATMO
+42,Ajaibpur,AJR
+43,Ajanti,ANI
+44,Ajaraka,AIA
+45,Ajgain,AJ
+46,Ajjampur,AJP
+47,Ajmer Junction,AII
+48,Ajni,AJNI
+49,Ajnod,AJN
+50,Akalkot Road,AKOR
+51,Akaltara,AKT
+52,Akanapet,AKE
+53,Akathumuri,AMY
+54,Akbarganj,AKJ
+55,Akbarnagar,AKN
+56,Akbarpur,ABP
+57,Akividu,AKVD
+58,Akkaraippatti,API
+59,Akodia,AKD
+60,Akola Junction,AK
+61,Akolner,AKR
+62,Akot,AKOT
+63,Akshaywat R Ngr,AYRN
+64,Akurdi,AKRD
+65,Alai,ALJ
+66,Alai,ALAI
+67,Alamanda,ALM
+68,Alamnagar,AMG
+69,Alampur,ALMR
+70,Alandi,ALN
+71,Aler,ALER
+72,Algawan,AIG
+73,Alia Bada,ALB
+74,Aligarh Junction,ALJN
+75,Alipur Duar,APD
+76,Alipur Duar Junction,APDJ
+77,Allahabad City,ALY
+78,Allahabad Junction,ALD
+79,Alleppey,ALLP
+80,Alluru Road,AXR
+81,Almatti,LMT
+82,Alnavar Junction,LWR
+83,Alniya,ALNI
+84,Aluabari Road,AUB
+85,Aluva,AWY
+86,Alwal,ALW
+87,Alwar,AWR
+88,Amagura,AGZ
+89,Amalner,AN
+90,Amalsad,AML
+91,Amarda Road,ARD
+92,Amargarh,AGR
+93,Amarpura,APA
+94,Amarpura Rathan,AMPR
+95,Amausi,AMS
+96,Amb  Andaura,AADR
+97,Ambagaon,AGB
+98,Ambala Cant Junction,UMB
+99,Ambala City,UBC
+100,Ambalapuzha,AMPA
+101,Ambale,ABLE
+102,Ambari Falakata,ABFC
+103,Ambarnath,ABH
+104,Ambasa,ABSA
+105,Ambasamudram,ASD
+106,Ambaturai,ABI
+107,Ambika Kalna,ABKA
+108,Ambika Rohina,AMBR
+109,Ambikapur,ABKP
+110,Ambli Road,ABD
+111,Ambliyasan,UMN
+112,Ambodala,AMB
+113,Ambur,AB
+114,Amdara,UDR
+115,Amethi,AME
+116,Amgaon,AGN
+117,Amguri,AGI
+118,Amla Junction,AMLA
+119,Amlai,AAL
+120,Amlakhurd,AMX
+121,Amli,AMLI
+122,Ammanabrolu,ANB
+123,Ammasandra,AMSA
+124,Ammuguda,AMQ
+125,Amoni,AONI
+126,Amravati,AMI
+127,Amritapura,AMC
+128,Amritsar Junction,ASR
+129,Amroha,AMRO
+130,Anakapalle,AKP
+131,Anand Junction,ANND
+132,Anand Nagar,ANDN
+133,Anand Vihar,ANVR
+134,Anand Vihar Trm,ANVT
+135,Anandapuram,ANF
+136,Anandpur Sahib,ANSB
+137,Anantapur,ATP
+138,Anantnag,ANT
+139,Anaparti,APT
+140,Anara,ANR
+141,Anas,ANAS
+142,Anavardikhanpet,AVN
+143,Ancheli,ACL
+144,Andal Junction,UDL
+145,Andheri,ADH
+146,Andul,ADL
+147,Angadippuram,AAM
+148,Angamali,AFK
+149,Angar,AAG
+150,Angul,ANGL
+151,Anjani,ANO
+152,Anjar,AJE
+153,Anjhi Shahabad,AJI
+154,Ank Mmr Direct,ANKX
+155,Ankai,ANK
+156,Ankleshwar Junction,AKV
+157,Ankola,ANKL
+158,Ankorah Akorha,ANH
+159,Annavaram,ANV
+160,Annigeri,NGR
+161,Anpara,ANPR
+162,Antah,ATH
+163,Antu,ANTU
+164,Anugraha N Road,AUBR
+165,Anuppur Junction,APR
+166,Anupshahr,AUS
+167,Aonla,AO
+168,Appikatla,APL
+169,Apta,APTA
+170,Ara,ARA
+171,Arag,ARAG
+172,Arakkonam,AJJ
+173,Arakku,ARK
+174,Aralvaymozhi,AAY
+175,Arand,ARN
+176,Arang Mahanadi,ANMD
+177,Arariya,ARR
+178,Arariya Court,ARQ
+179,Aravali Road,AVRD
+180,Aravankadu,AVK
+181,Arigada,ARGD
+182,Ariyalur,ALU
+183,Arjansar,AS
+184,Arjuni,AJU
+185,Arnetha,ARE
+186,Arni Road,ARV
+187,Arnia,ARNA
+188,Arsikere Junction,ASK
+189,Arumuganeri,ANY
+190,Arunachal,ARCL
+191,Aruppukkottai,APK
+192,Asafpur,AFR
+193,Asalpur Jobner,JOB
+194,Asangaon,ASO
+195,Asansol Junction,ASN
+196,Asaoti,AST
+197,Asarva Junction,ASV
+198,Ashapura Gomat,AQG
+199,Ashok Nagar,ASKN
+200,Ashokapuram,AP
+201,Ashtegaon,ASTG
+202,Asifabad Road,ASAF
+203,Aslana,ANA
+204,Aslaoda,ASL
+205,Asokhar,AXK
+206,Asranada,AAS
+207,Atari,ATT
+208,Atarra,ATE
+209,Ateli,AEL
+210,Athmal Gola,ATL
+211,Atrampur,ARP
+212,Atru,ATRU
+213,Attabira,ATS
+214,Attar,ATR
+215,Attili,AL
+216,Attippattu,AIP
+217,Attur,ATU
+218,Atul,ATUL
+219,Aujari,AJRE
+220,Aulenda,AED
+221,Aung,AUNG
+222,Aunrihar Junction,ARJ
+223,Aurangabad,AWB
+224,Ausa Road,OSA
+225,Auvaneswsarem,AVS
+226,Auwa,AUWA
+227,Avadi,AVD
+228,Awantipura,ATPA
+229,Awatarnagar,ATNR
+230,Ayodhya,AY
+231,Ayodhyapattanam,APN
+232,Azamgarh,AMH
+233,Azamnagar Road,AZR
+234,Azimganj City,ACLE
+235,Azimganj Junction,AZ
+236,B Cement Nagar,BEY
+237,Babatpur,BTP
+238,Babhnan,BV
+239,Babina,BAB
+240,Babrala,BBA
+241,Babugarh,BBO
+242,Babupeth,BUPH
+243,Bacheli,BCHL
+244,Bachhrawan,BCN
+245,Bachwara Junction,BCA
+246,Bad,BAD
+247,Badabandha,BDBA
+248,Badami,BDM
+249,Badampudi,BPY
+250,Badarpur Junction,BPB
+251,Badarwas,BDWS
+252,Bade Arapur,BDXX
+253,Badhal,BDHL
+254,Badhwa Bara,BDWA
+255,Badkulla,BDZ
+256,Badla Ghat,BHB
+257,Badlapur,BUD
+258,Badli,BHD
+259,Badmal,BUDM
+260,Badnapur,BDU
+261,Badnera Junction,BD
+262,Badodar,BDDR
+263,Badshahnagar,BNZ
+264,Badshahpur,BSE
+265,Badulipar,BLPR
+266,Badurpur Ghat,BPG
+267,Badwasi,BWS
+268,Bagaha,BUG
+269,Bagahai Road,BGHI
+270,Bagalia,BGA
+271,Bagalkot,BGK
+272,Bagbahra,BGBR
+273,Bagdihi,BEH
+274,Bagetar,BF
+275,Bagevadi Road,BSRX
+276,Baghauli,BGH
+277,Baghdogra,BORA
+278,Baghnapara,BGRA
+279,Baghora,BJQ
+280,Baghuapal,BGPL
+281,Bagnan,BZN
+282,Bagra Tawa,BGTA
+283,Bagri Nagar,BQN
+284,Bagri Sajjanpur,BGX
+285,Bagumra,BGMR
+286,Bagwada (Halt),BAGD
+287,Bagwali,BWB
+288,Bahadur Singh W,BSS
+289,Bahadurgarh,BGZ
+290,Bahadurpur,BPD
+291,Baheri,BHI
+292,Bahjoi,BJ
+293,Bahraich,BRK
+294,Baiguda,BGUA
+295,Baihatola,BATL
+296,Baikunth,BKTH
+297,Baikunthpur Road,BRH
+298,Bainchi,BOI
+299,Bairagarh,BIH
+300,Bairagnia,BGU
+301,Baitalpur,BALR
+302,Baitarani Road,BTV
+303,Baiyyappanahali,BYPL
+304,Bajrangarh,BJG
+305,Bajud,BJUD
+306,Bajva,BJW
+307,Bakanian Bhaunr,BQE
+308,Bakhleta,BQQ
+309,Bakhtiyarpur Junction,BKP
+310,Baktal,BKTL
+311,Bakudi,BKLE
+312,Balabhadrapuram,BBPM
+313,Balabnramapuram,BRAM
+314,Balagarh,BGAE
+315,Balaghat Junction,BTC
+316,Balamu Junction,BLM
+317,Balangir,BLGR
+318,Balasore,BLS
+319,Balawali,BLW
+320,Bale,BALE
+321,Balganur,BLR
+322,Balharshah,BPQ
+323,Baliakheri,BAE
+324,Balichak,BCK
+325,Ballabgarh,BVH
+326,Ballenahalli,BAHI
+327,Ballia,BUI
+328,Bally,BLY
+329,Balod,BXA
+330,Balotra Junction,BLT
+331,Balpur Halt,BPRH
+332,Balrampur,BLP
+333,Balsamand,BLSD
+334,Balugan,BALU
+335,Balurghat,BLGT
+336,Bamanwali,BMNL
+337,Bamhrauli,BMU
+338,Bamla,BMLL
+339,Bamnia,BMI
+340,Bamra,BMB
+341,Banahi,BYN
+342,Banapura,BPF
+343,Banar,BNO
+344,Banas,BNS
+345,Banaswadi,BAND
+346,Banbasa,BNSA
+347,Banda Junction,BNDA
+348,Bandakpur,BNU
+349,Bandanwara,BDW
+350,Bandarkhal,BXK
+351,Bandel Junction,BDC
+352,Bandh Bareta,BR
+353,Bandhua,BNF
+354,Bandikui Junction,BKI
+355,Bandra Terminus,BDTS
+356,Bangalore Cant,BNC
+357,Bangalore Cy Junction,SBC
+358,Bangalore East,BNCE
+359,Bangarapet,BWY
+360,Bangarapet,BWT
+361,Bangriposi,BGY
+362,Bangrod,BOD
+363,Bani,BANI
+364,Bani Bihar,BNBH
+365,Banihal,BAHL
+366,Banisar,BS
+367,Banka,BAKA
+368,Banka Ghat,BKG
+369,Banka Road Oa,BNKR
+370,Bankata,BTK
+371,Bankhedi,BKH
+372,Bankura,BQA
+373,Banmor,BAO
+374,Bano,BANO
+375,Banpas,BPS
+376,Bansh Baria,BSAE
+377,Banshlai Bridge,BSBR
+378,Bansi Paharpur,BIQ
+379,Bansipur,BSQP
+380,Banskho,BSKO
+381,Banspani,BSPX
+382,Bansthali Niwai,BNLW
+383,Banta Rnathgarh,BGG
+384,Bantanahal,BLL
+385,Bantawala,BNTL
+386,Banthra,BTRA
+387,Baori Thikria,BOTI
+388,Bap,BAF
+389,Bapatla,BPP
+390,Bapudm Motihari,MKI
+391,Bapudm Motihari,BMKI
+392,Bar,BAR
+393,Bara Jamda,BJMD
+394,Barabambo,BRM
+395,Barabanki Junction,BBK
+396,Barabhum,BBM
+397,Barabil,BBN
+398,Barachak,BCQ
+399,Baradwar,BUA
+400,Baragopal,BAGL
+401,Barahat,BHLE
+402,Barahu,BRHU
+403,Baraigram Jn,BRGM
+404,Barakar,BRR
+405,Baral,BARL
+406,Baramati,BRMT
+407,Baran,BAZ
+408,Barang,BRAG
+409,Barara,RAA
+410,Barauni Junction,BJU
+411,Baraut,BTU
+412,Barbatpur,BBTR
+413,Barchi Road,BCRD
+414,Barddhaman Junction,BWN
+415,Bardhana Halt,BRDH
+416,Bardoli,BIY
+417,Bareilly,BRY
+418,Bareilly,BE
+419,Bareilly City,BC
+420,Barejadi,BJD
+421,Barelipur,BQM
+422,Bareta,BRZ
+423,Bareth,BET
+424,Bargarh,BRG
+425,Bargarh Road,BRGA
+426,Bargawan,BRGW
+427,Bargi,BUQ
+428,Barh,BARH
+429,Barhan,BRN
+430,Barharwa Junction,BHW
+431,Barhiya,BRYA
+432,Barhiya,DKGS
+433,Barhni,BNY
+434,Bari Brahman,BBMN
+435,Bariarpur,BUP
+436,Baripada,BPO
+437,Bariwala,BRW
+438,Barka Kana,BRKA
+439,Barkhera,BKA
+440,Barkisalalya,BSYA
+441,Barkur,BKJ
+442,Barlai,BLAX
+443,Barmer,BME
+444,Barnala,BNN
+445,Barog,BOF
+446,Barpali,BRPL
+447,Barpathar,BXP
+448,Barpeta Road,BPRD
+449,Barrackpore,BP
+450,Barrajpur,BJR
+451,Barsali,BYS
+452,Barsi Town,BTW
+453,Barsoi Junction,BOE
+454,Barsola,BZO
+455,Barua Bamungaon,BBGN
+456,Barud,BRUD
+457,Barwa Sagar,BWR
+458,Barwadih Junction,BRWD
+459,Barwaha,BWW
+460,Barwala,BXC
+461,Barya Ram,BYHA
+462,Basai,BZY
+463,Basampalle,BSPL
+464,Basantapur,BSTP
+465,Basar,BSX
+466,Basbari,BSI
+467,Basharatganj,BTG
+468,Basin Bridge Junction,BBQ
+469,Basmat,BMF
+470,Basni,BANE
+471,Bassi,BAI
+472,Bassi Pathanam,BSPN
+473,Basta,BTS
+474,Basti,BST
+475,Basugaon,BSGN
+476,Basukinath,BSKH
+477,Baswa,BU
+478,Batala Junction,BAT
+479,Bataspur,BSLE
+480,Bathinda Cantt.,BTIC
+481,Bauria Junction,BVA
+482,Bawal,BWL
+483,Bawani Khera,BWK
+484,Bayana Junction,BXN
+485,Baytu,BUT
+486,Bayyavaram,BVM
+487,Bazarsau,BZLE
+488,Bazpur,BPZ
+489,Beas,BEAS
+490,Beawar,BER
+491,Bechhiwara,BHWA
+492,Begampet,BMT
+493,Begdewadi,BGW
+494,Begu Sarai,BGS
+495,Behtagokul,BEG
+496,Behula,BHLA
+497,Bekal Fort,BFR
+498,Bela,BELA
+499,Bela Tal,BTX
+500,Belakoba,BLK
+501,Belampalli,BPA
+502,Belapur,BAP
+503,Belasar,BLSR
+504,Belda,BLDA
+505,Beldanga,BEB
+506,Belgahna,BIG
+507,Belgaum,BGM
+508,Belgharia,BLH
+509,Belha,BYL
+510,Bellamkonda,BMKD
+511,Bellary Cant,BYC
+512,Bellary Junction,BAY
+513,Bellenahalli,BNHL
+514,Belpahar,BPH
+515,Belrayan,BXM
+516,Belsonda,BLSN
+517,Belthara Road,BLTR
+518,Belvandi,BWD
+519,Beohari,BEHR
+520,Berawanya,BRNA
+521,Berchha,BCH
+522,Berhampore Crt,BPC
+523,Bermo,BRMO
+524,Besroli,BSRL
+525,Betamcherla,BMH
+526,Betavad,BEW
+527,Bethampurdi,BTPD
+528,Bethuadahari,BTY
+529,Betnoti,BTQ
+530,Bettiah,BTH
+531,Betul,BZU
+532,Bevinahalu,BNL
+533,Bhabhar,BAH
+534,Bhabta,BFT
+535,Bhabua Road,BBU
+536,Bhachau,BCO
+537,Bhachau Bg,BCOB
+538,Bhadan,BDN
+539,Bhadanpur,BUU
+540,Bhadaura,BWH
+541,Bhadbhadaghat,BVB
+542,Bhadbhunja,BBAI
+543,Bhadli,BDI
+544,Bhadohi,BOY
+545,Bhadrachalam Road,BDCR
+546,Bhadrakh,BHC
+547,Bhadravati,BDVT
+548,Bhadreshwar,BHR
+549,Bhadri,BHDR
+550,Bhadroli,BBY
+551,Bhaga Junction,VAA
+552,Bhagalpur,BGP
+553,Bhagalpur,ZZZZ
+554,Bhagat Ki Kothi,BGKT
+555,Bhagwangola,BQG
+556,Bhagwanpur,BNR
+557,Bhagwanpura,BGPR
+558,Bhairoganj,BRU
+559,Bhairongarh,BOG
+560,Bhakti Nagar,BKNG
+561,Bhalki,BHLK
+562,Bhalui,BFM
+563,Bhaluka Road F,BKRD
+564,Bhalukmara,BLMR
+565,Bhalulata,BUL
+566,Bhalumaska,BLMK
+567,Bhalwani,BLNI
+568,Bhan Kari,BAK
+569,Bhanapur,BNP
+570,Bhandak,BUX
+571,Bhandara Road,BRD
+572,Bhandaridah,BHME
+573,Bhandu Motidau,BHU
+574,Bhansi,BHNS
+575,Bhanvad,BNVD
+576,Bhanvad,BNUD
+577,Bhanwar Tonk,BHTK
+578,Bhanwasa,BNWS
+579,Bharat Kup,BTKP
+580,Bharatpur Junction,BTE
+581,Bharoli,BHRL
+582,Bharthana,BNT
+583,Bharuch Junction,BH
+584,Bharwa Sumerpur,BSZ
+585,Bharwari,BRE
+586,Bhatapara,BYT
+587,Bhatinda Junction,BTI
+588,Bhatisuda(Halt),BTSD
+589,Bhatiya,BHTA
+590,Bhatkal,BTKL
+591,Bhatkal,BTJL
+592,Bhatni Junction,BTT
+593,Bhaton Ki Gali,BHG
+594,Bhatpar Rani,BHTR
+595,Bhattiprolu,BQU
+596,Bhattu,BHT
+597,Bhavanagar Para,BVP
+598,Bhavani Nagar,BVNR
+599,Bhavnagar Trmus,BVC
+600,Bhawani Mandi,BWM
+601,Bhawanipatna,BWIP
+602,Bhayandar,BYR
+603,Bhayavadar,BHY
+604,Bhedia,BDH
+605,Bheerpur,BEP
+606,Bheja,BHJA
+607,Bheraghat,BRGT
+608,Bhesana,BFY
+609,Bheslana,BILA
+610,Bhestan,BHET
+611,Bhigwan,BGVN
+612,Bhiknur,BKU
+613,Bhilad,BLD
+614,Bhilai,BIA
+615,Bhilai Pwr Hs,BPHB
+616,Bhilainagar,BQR
+617,Bhilavdi,BVQ
+618,Bhildi,BLDI
+619,Bhilwara,BHL
+620,Bhimadolu,BMD
+621,Bhimal,BIML
+622,Bhimalgondi,BMC
+623,Bhimana,BMN
+624,Bhimasar Bg,BMSB
+625,Bhimavaram Junction,BVRM
+626,Bhimavaram Town,BVRT
+627,Bhimgara,BMGA
+628,Bhimkhoj,BMKJ
+629,Bhimsen,BZM
+630,Bhind,BIX
+631,Bhinwaliya,BWA
+632,Bhira Kheri,BIK
+633,Bhitaura,BTO
+634,Bhitoni,BHTN
+635,Bhivpuri Road,BVS
+636,Bhiwandi Road,BIRD
+637,Bhiwani,BNW
+638,Bhiwani City,BNWC
+639,Bhogpur Sirwal,BPRS
+640,Bhojipura Junction,BPR
+641,Bhojo,BOJ
+642,Bhojudih Junction,BJE
+643,Bhokar,BOKR
+644,Bhoke,BOKE
+645,Bhoma,BHV
+646,Bhone,BHNE
+647,Bhongaon,BGQ
+648,Bhongir,BG
+649,Bh Onra,BON
+650,Bhopal  Junction,BPL
+651,Bhoras Budrukh,BFJ
+652,Bhortex,BRTK
+653,Bhubaneswar,BBS
+654,Bhuchchu,BCU
+655,Bhugaon,BPK
+656,Bhuj,BHUJ
+657,Bhulanpur,BHLP
+658,Bhulon,BLO
+659,Bhupalsagar,BSJ
+660,Bhupdeopur,BEF
+661,Bhupia Mau,VPO
+662,Bhurkunda,BHKD
+663,Bhusandpur,BSDP
+664,Bhusaval Junction,BSL
+665,Bhuteshwar,BTSR
+666,Bibinagar,BN
+667,Bichia,BIC
+668,Bidadi,BID
+669,Bidanpur,BDNP
+670,Bidar,BIDR
+671,Bidhan Nagar,BNXR
+672,Bidupur,BIU
+673,Bigga,BIGA
+674,Bighapur,BQP
+675,Bihar Sharif,BEHS
+676,Bihara,BHZ
+677,Bihiya,BEA
+678,Bihta,BTA
+679,Bijainagar,BJNR
+680,Bijapur,BJP
+681,Bijauli,BJI
+682,Bijaysota,VST
+683,Bijni,BJF
+684,Bijnor,BJO
+685,Bijoor,BIJR
+686,Bijora,BJK
+687,Bijuli Halt,BJIH
+688,Bijuri,BJRI
+689,Bijwasan,BWSN
+690,Bikaner Junction,BKN
+691,Bikkavolu,BVL
+692,Bikram Shila,BKSL
+693,Bikrampur,BMR
+694,Bilaspur Junction,BSP
+695,Bilaspur Road,BLQR
+696,Bilaspur Road,BLOR
+697,Bildi,BILD
+698,Bilga,BZG
+699,Bilhar Ghat,BLG
+700,Bilhaur,BLU
+701,Bilimora Junction,BIM
+702,Billi,BXLL
+703,Bilpur,BLPU
+704,Bilwai,BWI
+705,Bina Junction,BINA
+706,Binaiki,VNK
+707,Bindayaka,BDYK
+708,Bindki Road,BKO
+709,Binnaguri,BNV
+710,Bir,BIR
+711,Biradhwal,BDWL
+712,Birambad,BAMA
+713,Biramdih,BRMD
+714,Birang Khera,BMK
+715,Birapatti,BRPT
+716,Birlanagar,BLNR
+717,Birnagar,BIJ
+718,Birohe,BEO
+719,Biroliya,BRLY
+720,Birsinghpur,BRS
+721,Birur Junction,RRB
+722,Bisalwas Kalan,BIWK
+723,Bisanattam,BSM
+724,Bisapurkalan,BRKH
+725,Bishnathganj,BTJ
+726,Bishnupur,VSU
+727,Bishrampur,BSPR
+728,Bisra,BZR
+729,Bissamcuttack,BMCK
+730,Bissau,BUB
+731,Bisugirsharif,BGSF
+732,Biswan,BVN
+733,Bitragunta,BTTR
+734,Biyavra Rajgarh,BRRG
+735,Bobas,BOBS
+736,Bobbili,VBL
+737,Bodhadi Bujrug,BHBK
+738,Bodwad,BDWD
+739,Bohali,BHLI
+740,Bohani,BNE
+741,Boinda,BONA
+742,Boisar,BOR
+743,Bokajan,BXJ
+744,Bokaro Stl City,BKSC
+745,Bokaro Thermal,BKRO
+746,Bolai,BLX
+747,Bolarum,BMO
+748,Bolarum Bazar,BOZ
+749,Bolinna Doaba,BLND
+750,Bolpur S Niktn,BHP
+751,Bolsa,BLSA
+752,Bomadra,BOM
+753,Bommidi,BQI
+754,Bona Kalu,BKL
+755,Bondamunda,BNDM
+756,Bongaigaon,BNGN
+757,Bonidanga,BDAG
+758,Borawar,BOW
+759,Bordhal,BXY
+760,Bordi,BIO
+761,Borhat,BFD
+762,Boribial,BRB
+763,Boridand,BRND
+764,Borivali,BVI
+765,Boroti,BOT
+766,Borraguhallu,BGHU
+767,Bortalao,BTL
+768,Borvihir,BRVR
+769,Botad Junction,BTD
+770,Bpt Station,XXXX
+771,Brahmanagudem,BMGM
+772,Brahmanpalli,BMPL
+773,Brahmapur,BAM
+774,Brajrajnagar,BRJN
+775,Brayla Chaurasi,BRLA
+776,Budalur,BAL
+777,Budaun,BEM
+778,Buddireddippati,BDY
+779,Budhi,BDHY
+780,Budhlada,BLZ
+781,Budni,BNI
+782,Budvel,BDVL
+783,Bulandshahr,BSC
+784,Bundi,BUDI
+785,Bundki,BEK
+786,Buniadpur,BNDP
+787,Burhanpur,BAU
+788,Burhar,BUH
+789,Burhwal,BUW
+790,Burnpur,BURN
+791,Butari,BTR
+792,Buti Bori,BTBR
+793,Buxar,BXR
+794,Byadarahalli,BDRL
+795,Byadgi,BYD
+796,Byculla,BY
+797,Byndoor,BYNR
+798,C Shahumharaj T,KOP
+799,Cancona,CNO
+800,Castle Rock,CLR
+801,Cavalry Barrcks,CVB
+802,Chabua,CHB
+803,Chachaura Bngj,CBK
+804,Chacher,CHCR
+805,Chagallu,CU
+806,Chaibasa,CBSA
+807,Chainpur,CNPR
+808,Chainwa,CW
+809,Chajawa,CJW
+810,Chajli,CJL
+811,Chakand,CKH
+812,Chakarbhatha,CHBT
+813,Chakarlapalli,CPL
+814,Chakarpur,CKK
+815,Chakdaha,CDH
+816,Chakdayala,CKDL
+817,Chakia,CAA
+818,Chakki Bank,CHKB
+819,Chakradharpur,CKP
+820,Chakraj Mal,CAJ
+821,Chakrod,CKOD
+822,Chaksu,CKS
+823,Chakulia,CKU
+824,Chakur,CKX
+825,Chalakudi,CKI
+826,Chalama,CMZ
+827,Chalgeri,CLI
+828,Chalisgaon Junction,CSN
+829,Challakere,CHKE
+830,Chalsa Junction,CLD
+831,Chalthan,CHM
+832,Chamagram,CMX
+833,Chamarajanagar,CMNR
+834,Champa,CPH
+835,Champaner Road Jn,CPN
+836,Chand Siau,CPS
+837,Chanda Fort,CAF
+838,Chandan Nagar,CGR
+839,Chandanattop,CTPE
+840,Chandari,CNBI
+841,Chandauli Mjhwr,CDMR
+842,Chandausi Junction,CH
+843,Chandawal,CNL
+844,Chanderiya,CNA
+845,Chandi Mandir,CNDM
+846,Chandia Road,CHD
+847,Chandigarh,CDG
+848,Chandil Junction,CNI
+849,Chandlodiya,CDLD
+850,Chandlodiya,CLDY
+851,Chandok,CNK
+852,Chandragiri,CGI
+853,Chandrakona Road,CDGR
+854,Chandranathpur,CNE
+855,Chandrapur,CD
+856,Chandrapura,CRP
+857,Chandur,CND
+858,Chandur Bazar,CNDB
+859,Chaneti,CHTI
+860,Changanaseri,CGY
+861,Changotola,CGLA
+862,Changsari,CGS
+863,Channani,CHNN
+864,Channapatna,CPT
+865,Chanpatia,CAI
+866,Chaparmukh Junction,CPK
+867,Charamula Kusum,CJS
+868,Charanmahadevi,SMD
+869,Charaud,CRW
+870,Charbatia,CBT
+871,Charegaon,CRN
+872,Charghat Pipari,CGE
+873,Charkhera,CRK
+874,Charkhi Dadri,CKD
+875,Charlapalli,CHZ
+876,Charvattur,CHV
+877,Chata,CHJ
+878,Chatra,CTR
+879,Chatrappatti,CHPT
+880,Chatrapur,CAP
+881,Chattriput,CTS
+882,Chau Mahla,CMU
+883,Chaube,CBH
+884,Chauk,CHOK
+885,Chaukhandi,CHH
+886,Chaunrah,CNH
+887,Chaura,CUX
+888,Chauri Chaura,CC
+889,Chausa,CSA
+890,Chautara,CROA
+891,Chauth Ka Brwra,CKB
+892,Chavaj,CVJ
+893,Chavalkhede,CHLK
+894,Chawapall,CHA
+895,Chebrol,CEL
+896,Cheekateegalplm,CEM
+897,Chengalpattu,CGL
+898,Chengannur,CNGR
+899,Chennai Beach,MSB
+900,Chennai Central,MAS
+901,Chennai Egmore,MS
+902,Chennasandra,CSDR
+903,Cheoki,COI
+904,Cheriyanad,CYN
+905,Cherukara,CQA
+906,Chettinad,CTND
+907,Chhabra Gugor,CAG
+908,Chhan Arorian,CHNR
+909,Chhandrauli,CDRL
+910,Chhanera,CAER
+911,Chhapi,CHP
+912,Chhapra,CPR
+913,Chhapra Kacheri,CI
+914,Chharodi,CE
+915,Chharra,CHRA
+916,Chhatna,CJN
+917,Chhina,CHN
+918,Chhindwara Junction,CWA
+919,Chhipadohar,CPDR
+920,Chhota Gudha,COD
+921,Chhoti Odai,COO
+922,Chhulha,CLF
+923,Chichaki,CCK
+924,Chidambaram,CDM
+925,Chigicherla,CCA
+926,Chiheru,CEU
+927,Chik Banavar,BAW
+928,Chikalthan,CTH
+929,Chikhli,CKHS
+930,Chikjajur Junction,JRU
+931,Chikni Road,CKNI
+932,Chikodi Road,CKR
+933,Chilakalapudi,CLU
+934,Chilbila Junction,CIL
+935,Chilikidara,CLDR
+936,Chilka,CLKA
+937,Chilkahar,CHR
+938,Chilo,CLO
+939,Chiluvur,CLVR
+940,Chima Pahad,CMW
+941,Chimidipalli,CMDP
+942,Chinchli,CNC
+943,Chinchpada,CPD
+944,Chinchvad,CCH
+945,Chinna Ganjam,CJM
+946,Chinna Salem,CHSM
+947,Chinnaravuru,CIV
+948,Chinpai,CPLE
+949,Chintaman Ganes,CNN
+950,Chiplun,CHI
+951,Chipurupalle,CPP
+952,Chirala,CLX
+953,Chirawa,CRWA
+954,Chirayinkil,CRY
+955,Chirgaon,CGN
+956,Chirmiri,CHRM
+957,Chit Baragaon,CBN
+958,Chitahra,CTHR
+959,Chitali,CIT
+960,Chitgidda,CTF
+961,Chitradurg,CTA
+962,Chitrakot,CKTD
+963,Chitrasani,CTT
+964,Chitrod,COE
+965,Chittapur,CT
+966,Chittaranjan,CRJ
+967,Chittaurgarh,COR
+968,Chittor,CTO
+969,Chityala,CTYL
+970,Chodiala,CDL
+971,Chola,CHL
+972,Chomun Samod,COM
+973,Chopan,CPU
+974,Choral,CRL
+975,Chorghatpiparia,CRE
+976,Chorgi,CHRG
+977,Chorvad Road,CVR
+978,Choti Khatu,CTKT
+979,Choupale,CUE
+980,Chuchura,CNS
+981,Chudawa,CRU
+982,Chunar,CAR
+983,Churaibari,CBZ
+984,Churk,CUK
+985,Churu,CUR
+986,Cinnamara,CMA
+987,Clutterbuckganj,CBJ
+988,Coimbatore Junction,CBE
+989,Coimbatore Nrth,CBF
+990,Colonelganj,CLJ
+991,Contai Road,CNT
+992,Coonoor,ONR
+993,Cossimbazar,CSZ
+994,Cuddalore Port,CUPJ
+995,Cuddapah,HX
+996,Cumbum,CBM
+997,Cuttack,CTC
+998,Dabhaura,DBR
+999,Dabhoda,DBO
+1000,Dabilpur,DBV
+1001,Dabka,DBKA
+1002,Dabla,DBLA
+1003,Dabli Rathan,DBI
+1004,Dabpal,DPF
+1005,Dabpal,DBF
+1006,Dabra,DBA
+1007,Dabtara,DUB
+1008,Dadar,DR
+1009,Dadar,DDR
+1010,Dadhapara,DPH
+1011,Dadhdevi,DDV
+1012,Dadpur,DPX
+1013,Dadri,DER
+1014,Dagarhkeri,DRHI
+1015,Daghora,DAO
+1016,Dagmagpur,DAP
+1017,Dagori,DGS
+1018,Dahanu Road,DRD
+1019,Dahar Ka Balaji,DKBJ
+1020,Dahod,DHD
+1021,Dakaniya Talav,DKNT
+1022,Dakhineswar,DAKE
+1023,Daladi,DL
+1024,Dalauda,DLD
+1025,Dalbhumgarh,DVM
+1026,Dalelnagar,DLQ
+1027,Dalgaon,DLO
+1028,Daliganj,DAL
+1029,Dalkolha,DLK
+1030,Dalli Rajhara,DRZ
+1031,Dalmau Junction,DMW
+1032,Dalmera,DLC
+1033,Dalpatpur,DLP
+1034,Dalsingh Sarai,DSS
+1035,Daltonganj,DTO
+1036,Damanjodi,DMNJ
+1037,Damchara,DCA
+1038,Damoh,DMO
+1039,Danapur,DNR
+1040,Danauli Phlwria,DPL
+1041,Dandupur,DND
+1042,Danea,DNEA
+1043,Dangarwa,DNW
+1044,Dangoaposi,DPS
+1045,Danishpet,DSPT
+1046,Daniyawan Bzr H,DNWH
+1047,Dankaur,DKDE
+1048,Dankuni,DKAE
+1049,Dantan,DNT
+1050,Dantewara,DWZ
+1051,Dantra,DTRA
+1052,Danwar,DAR
+1053,Daotuhaja,DJA
+1054,Dapodi,DAPD
+1055,Dappar,DHPR
+1056,Dara,DARA
+1057,Darbhanga Junction,DBG
+1058,Darekasa,DKS
+1059,Darjeeling,DJ
+1060,Darliput,DPC
+1061,Darritola,DTL
+1062,Daryabad,DYD
+1063,Dasharathpur,DRTP
+1064,Dasna,DS
+1065,Dasuya,DZA
+1066,Datia,DAA
+1067,Daudpur,DDP
+1068,Daulatabad,DLB
+1069,Daulatpur Hat,DLPH
+1070,Daund Junction,DD
+1071,Daurai,DOZ
+1072,Daurala,DRLA
+1073,Dauram Madhpura,DMH
+1074,Dausa,DO
+1075,Dausni,DSNI
+1076,Davangere,DVG
+1077,Dayalpur,DLPR
+1078,Dayanand Nagar,DYE
+1079,Debagram,DEB
+1080,Debari,DRB
+1081,Deeg,DEEG
+1082,Degana Junction,DNA
+1083,Dehradun,DDN
+1084,Dehri On Sone,DOS
+1085,Dehu Road,DEHR
+1086,Dekargaon,DKGN
+1087,Delang,DEG
+1088,Delhi,DLI
+1089,Delhi Cantt,DEC
+1090,Delhi Kishangnj,DKZ
+1091,Delhi S Rohilla,DEE
+1092,Delhi Safdarjng,DSJ
+1093,Delhi Shahdara,DSA
+1094,Denduluru,DEL
+1095,Deoband,DBD
+1096,Deoghar,DGHR
+1097,Deojhar,DJHR
+1098,Deori,DOE
+1099,Deoria Sadar,DEOS
+1100,Deotala,DOTL
+1101,Depur Ph,DPUR
+1102,Derol,DRL
+1103,Derowan P. H.,DRWN
+1104,Desari,DES
+1105,Deshapran P.H.,DSPN
+1106,Deshnok,DSO
+1107,Deswal,DSL
+1108,Devakottai Road,DKO
+1109,Devalgaon Auchr,DAV
+1110,Devangonthi,DKN
+1111,Devarapalli,DPE
+1112,Devargudda,DAD
+1113,Devbaloda Chrda,DBEC
+1114,Devi Halt,DVH
+1115,Devlali,DVL
+1116,Devpura,DPZ
+1117,Devri Ph,DRPH
+1118,Dewanganj,DWG
+1119,Dewas,DWX
+1120,Dhaban,DABN
+1121,Dhaca Cantt,DHCA
+1122,Dhaka,DAKA
+1123,Dhalgaon,DLGN
+1124,Dhalpukhuri,DHRY
+1125,Dhamalgaon,DMGN
+1126,Dhamangaon,DMN
+1127,Dhamara Ghat,DHT
+1128,Dhamdhamia,DDX
+1129,Dhamora,DAM
+1130,Dhampur,DPR
+1131,Dhana Kherli,DXK
+1132,Dhanakya,DNK
+1133,Dhanapur Orissa,DIR
+1134,Dhanari,DN
+1135,Dhanauri,DNRE
+1136,Dhanbad Junction,DHN
+1137,Dhandari Kalan,DDL
+1138,Dhandhera,DNRA
+1139,Dhanera,DQN
+1140,Dhaneta,DAN
+1141,Dhanmandal,DNM
+1142,Dhansu,DNX
+1143,Dhanuvachapuram,DAVM
+1144,Dhapewara,DPW
+1145,Dharamtul,DML
+1146,Dharangaon,DXG
+1147,Dhareshwar,DRS
+1148,Dharewada,DRW
+1149,Dharhara,DRH
+1150,Dhariwal,DHW
+1151,Dharmabad,DAB
+1152,Dharmanagar,DMR
+1153,Dharmapuri,DPJ
+1154,Dharmavaram Junction,DMM
+1155,Dharmpur Hmchl,DMP
+1156,Dharnaoda,DHR
+1157,Dharuadihi,DIH
+1158,Dharur,DRR
+1159,Dharwar,DWR
+1160,Dhasa Junction,DAS
+1161,Dhatrigram,DTAE
+1162,Dhaulpur,DHO
+1163,Dhauni,DWLE
+1164,Dhaura,DUA
+1165,Dhavalas,DHS
+1166,Dheena,DHA
+1167,Dhekiajili Road,DKJR
+1168,Dhekvad,DWD
+1169,Dhemaji,DMC
+1170,Dhengli Pp Goan,DGPP
+1171,Dhenkanal,DNKL
+1172,Dhigawara,DGW
+1173,Dhilwan,DIW
+1174,Dhinda,DHND
+1175,Dhirera,DHRR
+1176,Dhodhar,DOD
+1177,Dhodra Mohar,DOH
+1178,Dhoki,DKY
+1179,Dhola Junction,DLJ
+1180,Dholi,DOL
+1181,Dholipal,DPK
+1182,Dhondi,DNDI
+1183,Dhone,DNC
+1184,Dhone,DHNE
+1185,Dhoraji,DJI
+1186,Dhrangdhra,DHG
+1187,Dhuankheri,DKRA
+1188,Dhubri,DBB
+1189,Dhubulia,DHU
+1190,Dhule,DHI
+1191,Dhulghat,DGT
+1192,Dhulian Ganga,DGLE
+1193,Dhulkot,DKT
+1194,Dhupguri,DQG
+1195,Dhuri Junction,DUI
+1196,Dhurwasin,DRSN
+1197,Dhutra,DTV
+1198,Dibolong,DBLG
+1199,Dibrugarh,DBRG
+1200,Dibrugarh Town,DBRT
+1201,Didwana,DIA
+1202,Digaru,DGU
+1203,Digboi,DBY
+1204,Digha Flag Stn,DGHA
+1205,Dighwara,DGA
+1206,Digod,DXD
+1207,Diguvametta,DMT
+1208,Dihakho,DKE
+1209,Dijaobra,DJB
+1210,Dilawarnagar,DIL
+1211,Dildarnagar Junction,DLN
+1212,Dilmili,DMK
+1213,Dilwa,DLW
+1214,Dimapur,DMV
+1215,Dina Nagar,DNN
+1216,Dindigul Junction,DG
+1217,Diphu,DPU
+1218,Diplana,DPLN
+1219,Disa,DISA
+1220,Ditokcherra,DTC
+1221,Diva,DIVA
+1222,Divine Nagar,DINR
+1223,Diwankhavati,DWV
+1224,Diyatara Road,DTRD
+1225,Diyodar,DEOR
+1226,Dodballapur,DBU
+1227,Dodbele,DBL
+1228,Dodhi,DHE
+1229,Doikallu,DKLU
+1230,Doiwala,DWO
+1231,Dokwa,DKWA
+1232,Domingarh,DMG
+1233,Donakonda,DKD
+1234,Dondaicha,DDE
+1235,Dongargarh,DGG
+1236,Donkinavalasa,DNV
+1237,Doraha,DOA
+1238,Dornakal Junction,DKJ
+1239,Dosvada,DSD
+1240,Dubaha,DUBH
+1241,Dubrajpur,DUJ
+1242,Duddhinagar,DXN
+1243,Dudhani,DUD
+1244,Dudhwakhara,DKX
+1245,Duganpur,DUN
+1246,Duggirala,DIG
+1247,Duliajan,DJG
+1248,Dullahapur,DLR
+1249,Dulrasar,DUS
+1250,Dum Dum,DDJ
+1251,Dumariya,DY
+1252,Dumka,DUMK
+1253,Dumraon,DURE
+1254,Dumri Bihar,DMBR
+1255,Dumri Halt,DMRX
+1256,Dumri Juara,DRI
+1257,Dumurdaha,DMLE
+1258,Dumuriput,DMRT
+1259,Dundi,DDCE
+1260,Dundlod Mkdgrh,DOB
+1261,Dungarpur,DNRP
+1262,Dungri,DGI
+1263,Dungripali,DJX
+1264,Duraundha Junction,DDA
+1265,Durg,DURG
+1266,Durgada Gate,DGDG
+1267,Durgapur,DGR
+1268,Durgapura,DPA
+1269,Durgauti,DGO
+1270,Duroji,DAJ
+1271,Dusi,DUSI
+1272,Duvvada,DVD
+1273,Dwarapudi,DWP
+1274,Dwarka,DWK
+1275,Edavai,EVA
+1276,Edduladoddi,EDD
+1277,Ekambarakuppam,EKM
+1278,Ekangarsarai,EKR
+1279,Ekchari,EKC
+1280,Eklakhi,EKI
+1281,Ekma,EM
+1282,Ekma,EKMA
+1283,Elimala,ELM
+1284,Ellamanchili,YLM
+1285,Ellenabad,ENB
+1286,Eluru,EE
+1287,Eranakulam Junction,ERS
+1288,Eraniel,ERL
+1289,Ernakulam Town,ERN
+1290,Erode Junction,ED
+1291,Errupalem,YP
+1292,Etawah,ETW
+1293,Etmadpur,ETUE
+1294,Ettapur Road,ETP
+1295,Ettumanur,ETM
+1296,Ezhukone,EKN
+1297,Faizabad Junction,FD
+1298,Faizullapur,FYZ
+1299,Fakhrabad,FKB
+1300,Fakiragram Junction,FKM
+1301,Falakata,FLK
+1302,Falna,FA
+1303,Farah Town,FHT
+1304,Faridabad,FDB
+1305,Faridabad Nw Tn,FDN
+1306,Faridkot,FDK
+1307,Farrukhabad,FBD
+1308,Fateh Singhpura,FSP
+1309,Fatehabad Ch.Jn,FTD
+1310,Fatehgarh,FGR
+1311,Fatehgarh Sahib,FGSB
+1312,Fatehnagar,FAN
+1313,Fatehpur,FTP
+1314,Fatehpur Sikri,FTS
+1315,Fatehpur Skhwti,FPS
+1316,Fatwa,FUT
+1317,Fazalpur,FZL
+1318,Fazilka,FKA
+1319,Ferok,FK
+1320,Firozabad,FZD
+1321,Firozpur Cant,FZR
+1322,Firozpur City,FZP
+1323,Forbesganj,FBG
+1324,Furkating Junction,FKG
+1325,Fursatganj,FTG
+1326,G Pochampalli,GDPL
+1327,G.Ramachandrapu,GRCP
+1328,Gachhipura,GCH
+1329,Gadadharpur,GHLE
+1330,Gadag Junction,GDG
+1331,Gadarwara,GAR
+1332,Gadhwala,GDW
+1333,Gadiganuru,GNR
+1334,Gadwal,GWD
+1335,Gahlota,GLTA
+1336,Gahmar,GMR
+1337,Gaipura,GAE
+1338,Gajapatinagaram,GPI
+1339,Gajjelakonda,GJJ
+1340,Gajner,GJN
+1341,Gajraula Junction,GJL
+1342,Gajsinghpur,GJS
+1343,Galgalia,GAGA
+1344,Galudih,GUD
+1345,Gambhiri Road,GRF
+1346,Gamharia,GMH
+1347,Ganagapur Road,GUR
+1348,Ganaur,GNU
+1349,Gandhidham Bg,GIMB
+1350,Gandhidham Junction.,GIM
+1351,Gandhinagar Cap,GNC
+1352,Gandhinagar Jpr,GADJ
+1353,Gandhipuram Hal,GHPU
+1354,Gandhismriti,GNST
+1355,Ganeshganj,GAJ
+1356,Gangadhara,GGAR
+1357,Gangadharpur,GNGD
+1358,Gangaganj,GANG
+1359,Gangaghat,GAG
+1360,Gangajhari,GJ
+1361,Gangakher,GNH
+1362,Gangani,GNNA
+1363,Gangapur City,GGC
+1364,Gangarampur,GRMP
+1365,Gangiwara,GNW
+1366,Gangrar,GGR
+1367,Gangsar Jaitu,GJUT
+1368,Ganj Basoda,BAQ
+1369,Ganj Dundwara,GWA
+1370,Ganjam,GAM
+1371,Gankar,GALE
+1372,Gannavaram,GWM
+1373,Garh Dhrubeswar,GRB
+1374,Garh Jaipur,GUG
+1375,Garhara,GHX
+1376,Garhbeta,GBA
+1377,Garhi Harsaru,GHH
+1378,Garhi Manikpur,GRMR
+1379,Garhmuktesar,GMS
+1380,Garhmuktesar Br,GGB
+1381,Garhwa,GHQ
+1382,Garifa,GFAE
+1383,Garividi,GVI
+1384,Garla,GLA
+1385,Garladinne,GDE
+1386,Garot,GOH
+1387,Garpos,GPH
+1388,Garudubilli,GRBL
+1389,Garwa Road,GHD
+1390,Gatora,GTW
+1391,Gaura,GRX
+1392,Gauri Bazar,GB
+1393,Gauribidanur,GBD
+1394,Gauriganj,GNG
+1395,Gauripur,GUP
+1396,Gaushala,GWS
+1397,Gautamdhara,GATD
+1398,Gautamsthan,GTST
+1399,Gaya Junction,GAYA
+1400,Gayabari,GBE
+1401,Gazole,GZO
+1402,Gazulapalli,GZL
+1403,Gede,GEDE
+1404,Gegal Akhri,GEK
+1405,Geratpur,GER
+1406,Getor Jagatpura,GTJT
+1407,Gevra Road,GAD
+1408,Ghadela,GELA
+1409,Ghagghar,GHG
+1410,Ghagwal,GHGL
+1411,Ghanauli,GANL
+1412,Ghanpur,GNP
+1413,Ghantikhal Ndpr,GHNH
+1414,Gharaunda,GRA
+1415,Ghaso,GSO
+1416,Ghat Nandur,GTU
+1417,Ghataka Varana,GKB
+1418,Ghatampur,GTM
+1419,Ghatera,GEA
+1420,Ghatkesar,GT
+1421,Ghatprabha,GPB
+1422,Ghatsila,GTS
+1423,Ghaziabad,GZB
+1424,Ghazipur City,GCT
+1425,Ghoga,GGA
+1426,Ghoksadanga,GDX
+1427,Gholvad,GVD
+1428,Ghonsor,GNS
+1429,Ghoradongri,GDYA
+1430,Ghorawadi,GRWD
+1431,Ghorpuri,GPR
+1432,Ghosunda,GSD
+1433,Ghughuli,GH
+1434,Ghum,GHUM
+1435,Ghunghuti,GGT
+1436,Ghutku,GTK
+1437,Gidam,GIZ
+1438,Giddalur,GID
+1439,Giddarbaha,GDB
+1440,Gidhaur,GHR
+1441,Gidni,GII
+1442,Gill,GILL
+1443,Ginigera,GIN
+1444,Giridih,GRD
+1445,Girimaidan,GMDN
+1446,Girwar,GW
+1447,Goaldih,GADH
+1448,Goalpara Town,GLPT
+1449,Godamgura,GDQ
+1450,Godavari,GVN
+1451,Godhra Junction,GDA
+1452,Gogameri,GAMI
+1453,Gogamukh,PDKN
+1454,Gogamukh,GOM
+1455,Gohad Road,GOA
+1456,Gohana,GHNA
+1457,Gohpur,GPZ
+1458,Goilkera,GOL
+1459,Gokak Road,GKK
+1460,Gokarna Road,GOK
+1461,Gokulpur,GKL
+1462,Gola Gokaranath,GK
+1463,Gola Road,GRE
+1464,Golaghat,GLGT
+1465,Golakganj Jn,GKJ
+1466,Golana Halt,GLNA
+1467,Goldinganj,GJH
+1468,Goldingganj,GALG
+1469,Gollaprolu,GLP
+1470,Golsar,GOZ
+1471,Gomati Nagar,GTNR
+1472,Gomoh Junction,GMO
+1473,Gomta,GTT
+1474,Gonda Junction,GD
+1475,Gondal,GDL
+1476,Gondia Junction,G
+1477,Gondwanavisapur,GNVR
+1478,Goneana,GNA
+1479,Gooty,GY
+1480,Gop Jam,GOP
+1481,Gopalapatnam,GPT
+1482,Gora Ghuma,GGM
+1483,Gorakhnath,GRKN
+1484,Gorakhpur Cant,GKC
+1485,Gorakhpur City,GKY
+1486,Gorakhpur Junction,GKP
+1487,Gorapur,GPJ
+1488,Goraul,GRL
+1489,Goraya,GRY
+1490,Goregaon Road,GNO
+1491,Goresuar,GVR
+1492,Goriyan,GIO
+1493,Gosalpur,GSPR
+1494,Goshainganj,GGJ
+1495,Gossaigaon Hat,GOGH
+1496,Gotan,GOTN
+1497,Gothaj,GTE
+1498,Gothangam,GTX
+1499,Gotlam,GTLM
+1500,Gour Malda,GZM
+1501,Goverdhan,GDO
+1502,Govindgarh,GVG
+1503,Govindgarh Malk,GND
+1504,Govindi Marwar,GVMR
+1505,Govindpur Road,GBX
+1506,Govindpuri,GOV
+1507,Govindpuri,GOY
+1508,Gowdavalli,GWV
+1509,Gubbi,GBB
+1510,Gudaparti,GDPT
+1511,Gudgeri,GDI
+1512,Gudha,GA
+1513,Gudimetta,GMA
+1514,Gudivada Junction,GDV
+1515,Gudiyattam,GYM
+1516,Gudlavalleru,GVL
+1517,Gudma,GDM
+1518,Gudru Halt,GDU
+1519,Gudupulli,GDP
+1520,Gudur Junction,GDR
+1521,Gujhandi,GJD
+1522,Gulabhganj,GLG
+1523,Gulabpura,GBP
+1524,Gulaothi,GLH
+1525,Gulbarga,GR
+1526,Guldhar,GUH
+1527,Guledagudda Road,GED
+1528,Gullaguda,GGD
+1529,Gullipadu,GLU
+1530,Gulzarbagh,GZH
+1531,Gumada,GMDA
+1532,Gumani,GMAN
+1533,Gumia,GMIA
+1534,Gumman,GMM
+1535,Gummidipundi,GPD
+1536,Gumthal,GTF
+1537,Gumto,GMTO
+1538,Guna,GUNA
+1539,Gunadala,GALA
+1540,Gundalukamma,GKM
+1541,Gundardehi,GDZ
+1542,Guneru Bamori,GVB
+1543,Guntakal Junction,GTL
+1544,Guntur Junction,GNT
+1545,Guptipara,GPAE
+1546,Gur Market,GRMT
+1547,Guramkhedi,GMD
+1548,Guraru,GRRU
+1549,Gurdaspur,GSP
+1550,Gurgaon,GGN
+1551,Gurhi,GUX
+1552,Guriya,GRI
+1553,Gurla,GQL
+1554,Gurnay,GRN
+1555,Gurpa,GAP
+1556,Gurra,GRO
+1557,Gursahaiganj,GHJ
+1558,Gursar Shnewala,GSW
+1559,Guru Harsahai,GHS
+1560,Guruvayur,GUV
+1561,Guskara,GKH
+1562,Guwahati,GHY
+1563,Guwarighat,GRG
+1564,Gwalior,GWL
+1565,Gyanpur Road,GYN
+1566,H Nizamuddin,NZM
+1567,Habaipur,HWX
+1568,Habibganj,HBJ
+1569,Habibwala,HBW
+1570,Hadapsar,HDP
+1571,Haddinagundu,HDD
+1572,Hadmadiya,HRM
+1573,Hadmatiya Junction,HM
+1574,Hadyal,HYL
+1575,Hafizpeta,HFZ
+1576,Hafizpur,HZR
+1577,Haflong Hill,HFG
+1578,Hagari,HGI
+1579,Haiaghat,HYT
+1580,Haidarnagar,HDN
+1581,Haidergarh,HGH
+1582,Hajipur Junction,HJP
+1583,Hakimpur,HKP
+1584,Halakatta,HLKT
+1585,Haldaur,HLDR
+1586,Haldi Road,HLDD
+1587,Haldia,HLZ
+1588,Haldibari,HDB
+1589,Haldipada,HIP
+1590,Haldwani,HDW
+1591,Halisahar,HLR
+1592,Halvad,HVD
+1593,Hamarapur,HMRR
+1594,Hamira,HMR
+1595,Hamirgarh,HMG
+1596,Hamirpur Road,HAR
+1597,Hamitonganj,HOJ
+1598,Hamsavaram,HVM
+1599,Hanakere,HNK
+1600,Handia Khas,HDK
+1601,Hansi,HNS
+1602,Hansiawas,HSWS
+1603,Hanuman Station,HNMN
+1604,Hanumangarh Junction,HMH
+1605,Hanumangarhtown,HMO
+1606,Hanwant,HWT
+1607,Hapa,HAPA
+1608,Hapur,HPU
+1609,Harangajao,HJO
+1610,Harangul,HGL
+1611,Haranya Kheri,HKH
+1612,Harauni,HRN
+1613,Harchandpur,HCP
+1614,Harda,HD
+1615,Hardas Bigha,HDE
+1616,Hardattpur,HDT
+1617,Hardoi,HRI
+1618,Hardua,HDU
+1619,Hargaon,HA
+1620,Harichandanpur,HCNR
+1621,Haridwar Junction,HW
+1622,Harihar,HRR
+1623,Harinagar,HIR
+1624,Harippad,HAD
+1625,Haripur,HP
+1626,Harischandrpur,HCR
+1627,Harishanker Road,HSK
+1628,Harkia Khal,HKL
+1629,Harmuti,HMY
+1630,Harnaut,HRT
+1631,Harpalganj,HRPG
+1632,Harpalpur,HPP
+1633,Harrad,HRV
+1634,Harrawala,HRW
+1635,Harri,HRB
+1636,Harsauli,HSI
+1637,Harsud,HRD
+1638,Harthala,HRH
+1639,Hasanparthi Road,HSP
+1640,Hasanpur Road,HPO
+1641,Hasimara,HSA
+1642,Hassan,HAS
+1643,Hathbandh,HN
+1644,Hathidah Junction,HTZ
+1645,Hathidah Upper,HTZU
+1646,Hathras City,HTC
+1647,Hathras Junction,HRS
+1648,Hathras Road,HTJ
+1649,Hathuran,HAT
+1650,Hatia,HTE
+1651,Hatikhali,HTL
+1652,Hatkanagale,HTK
+1653,Hatpuraini,HPLE
+1654,Haveri,HVR
+1655,Hazaribagh Road,HZD
+1656,Hbl Nagar,HBLN
+1657,Hebbal,HEB
+1658,Hejjala,HJL
+1659,Helem,HML
+1660,Hemagiri,HGR
+1661,Her,HER
+1662,Hijilli,HIJ
+1663,Hilara,HLX
+1664,Hilligrove,HLG
+1665,Hilsa,HIL
+1666,Himayatnagar,HEM
+1667,Himmatana,HMI
+1668,Himmatnagar,HMT
+1669,Hinautaramban,HNM
+1670,Hindaun City,HAN
+1671,Hindupur,HUP
+1672,Hinganghat,HGT
+1673,Hingoli Deccan,HNL
+1674,Hira Nagar,HRNR
+1675,Hirakud,HKG
+1676,Hirdagarh,HRG
+1677,Hirenanduru,HQR
+1678,Hirnoda,HDA
+1679,Hisar,HSR
+1680,Hodal,HDL
+1681,Hojai,HJI
+1682,Hol,HOL
+1683,Holalkere,HLK
+1684,Holambi Kalan,HUK
+1685,Hole Alur,HLAR
+1686,Hole Narsipur,HLN
+1687,Hombal,HBL
+1688,Honnavar,HNA
+1689,Hooghly Ghat,HYG
+1690,Hosdurga Road,HSD
+1691,Hoshangabad,HBD
+1692,Hoshiarpur,HSX
+1693,Hospet Junction,HPT
+1694,Hosur,HSRA
+1695,Hotgi,HG
+1696,Howbadh Jablpur,HBG
+1697,Howrah Junction,HWH
+1698,Hubli Junction,UBL
+1699,Hunsihadgil,HHD
+1700,Hyderabad Decan,HYB
+1701,Ib,IB
+1702,Ibrahimpur,IMR
+1703,Ichauli,ICL
+1704,Ichchpuram,IPM
+1705,Ichhapur,IP
+1706,Idaplli,IPL
+1707,Idgah Agra Junction,IDH
+1708,Igatpuri,IGP
+1709,Ikkar,IKK
+1710,Iklehra,IKR
+1711,Indapur,INP
+1712,Indara Junction,IAA
+1713,Indargarh,IDGH
+1714,Indargarh,IDG
+1715,Indi Road,IDR
+1716,Indore Junction Bg,INDB
+1717,Indore Jn Mg,INDM
+1718,Indrabil,IBL
+1719,Ipurupalem,IPPM
+1720,Iqbal Gadh,IQG
+1721,Iqbalpur,IQB
+1722,Iravipuram,IRP
+1723,Irinjalakuda,IJK
+1724,Irugur,IGU
+1725,Isand,EN
+1726,Isarda,ISA
+1727,Isarwara,ISH
+1728,Islampur,IPR
+1729,Ismaila Haryana,ISM
+1730,Ismailpur,IMGE
+1731,Itarsi Junction,ET
+1732,Itola,ITA
+1733,Itwari,ITR
+1734,Izzatnagar,IZN
+1735,Jabalpur,JBP
+1736,Jabli,JBL
+1737,Jabri,JBX
+1738,Jadcherla,JCL
+1739,Jagadhri,JUD
+1740,Jagadhri Wshop,JUDW
+1741,Jagadishpur,JGD
+1742,Jagatbela,JTB
+1743,Jagdalpur,JDB
+1744,Jagdevwala,JDL
+1745,Jagesharganj,JGJ
+1746,Jagi Road,JID
+1747,Jagraon,JGN
+1748,Jagudan,JDN
+1749,Jai Samand Road,JYM
+1750,Jaipur,JP
+1751,Jairamnagar,JRMG
+1752,Jais,JAIS
+1753,Jaisalmer,JSM
+1754,Jaithari,JTI
+1755,Jaitipur,JTU
+1756,Jaitsar,JES
+1757,Jaitwar,JTW
+1758,Jajiwal,JWL
+1759,Jajpur K Road,JJKR
+1760,Jakhal Junction,JHL
+1761,Jakhalabandha,JKB
+1762,Jakhalaun,JLN
+1763,Jakhanian,JKN
+1764,Jakhapura,JKPR
+1765,Jakhim,JHN
+1766,Jakhvada,JKA
+1767,Jalalganj,JLL
+1768,Jalalpur Dhai,JPD
+1769,Jalamb Junction,JM
+1770,Jalandhar Cant,JRC
+1771,Jalandhar City,JUC
+1772,Jalargarh,JAG
+1773,Jalesar Road,JLS
+1774,Jaleswar,JER
+1775,Jalgaon Junction,JL
+1776,Jalindri,JNRI
+1777,Jaliya Devani,JALD
+1778,Jallalabd,JBD
+1779,Jalna,J
+1780,Jalor,JOR
+1781,Jalpaiguri,JPG
+1782,Jalpaiguri Road,JPE
+1783,Jalsu,JAC
+1784,Jalsu Nanak,JACN
+1785,Jam Jodhpur Junction,JDH
+1786,Jam Wanthali,WTJ
+1787,Jama,JAMA
+1788,Jamalpur Junction,JMP
+1789,Jambara,JMV
+1790,Jamdha,JMD
+1791,Jamga,JMG
+1792,Jamikunta,JMKT
+1793,Jamirghata,JMQ
+1794,Jammu Tawi,JAT
+1795,Jamnagar,JAM
+1796,Jamsar,JMS
+1797,Jamtara,JMT
+1798,Jamui,JMU
+1799,Jamunamukh,JMK
+1800,Jamunia Kalan,JMKL
+1801,Janakpur Road,JNR
+1802,Jandiala,JNL
+1803,Jandrapeta,JAQ
+1804,Jangaon,ZN
+1805,Janghai Junction,JNH
+1806,Jangipur Road,JRLE
+1807,Jankampet Junction,JKM
+1808,Janwal,JOA
+1809,Jaora,JAO
+1810,Japla,JPL
+1811,Jaraikela,JRA
+1812,Jarandeshwar,JSV
+1813,Jarangdih,JAN
+1814,Jargaon,JRJ
+1815,Jaroli,JRLI
+1816,Jarti,JRT
+1817,Jarwal Road,JLD
+1818,Jasidih Junction,JSME
+1819,Jasra,JSR
+1820,Jaswantgarh,JSH
+1821,Jaswantnagar,JGR
+1822,Jath Road,JTRD
+1823,Jatinga,JTG
+1824,Jatinga Lumpur,JGLP
+1825,Jatkanhar,JTR
+1826,Jatusana,JTS
+1827,Jatwara,JW
+1828,Jaunpur City,JOP
+1829,Jaunpur Junction,JNU
+1830,Jawad Road,JWO
+1831,Jawaharnagar,JWNR
+1832,Jawaharnagar,JWHR
+1833,Jawai Bandh,JWB
+1834,Jawali,JAL
+1835,Jayasingpur,JSP
+1836,Jaynagar,JYG
+1837,Jehanabad,JHD
+1838,Jejuri,JJR
+1839,Jeonara Ph,JONR
+1840,Jeonathpur,JEP
+1841,Jeruwa Khera,JRK
+1842,Jetalsar Junction,JLR
+1843,Jethi,JTY
+1844,Jeur,JEUR
+1845,Jeypore,JYP
+1846,Jgmbla Kshnprm,JBK
+1847,Jhajha,JAJ
+1848,Jhalawar Road,JHW
+1849,Jhalida,JAA
+1850,Jhalwara,JLW
+1851,Jhansi Junction,JHS
+1852,Jhantipahari,JPH
+1853,Jhapater Dhal,JTL
+1854,Jhargram,JGM
+1855,Jharia,JRI
+1856,Jharili,JRL
+1857,Jharkhandi,JKNI
+1858,Jharradih,JDI
+1859,Jharsuguda Junction,JSG
+1860,Jhilmili,JLY
+1861,Jhimri,JHMR
+1862,Jhingura,JHG
+1863,Jhinjhak,JJK
+1864,Jhir,JHIR
+1865,Jhulasan,JUL
+1866,Jhunjhunun,JJN
+1867,Jhunpa,JUP
+1868,Jiaganj,JJG
+1869,Jigna,JIA
+1870,Jimidipeta,JMPT
+1871,Jind Junction,JIND
+1872,Jinti Road,JNTR
+1873,Jiradei,ZRDE
+1874,Jiradei,ZRD
+1875,Jirania,JRNA
+1876,Jirat,JIT
+1877,Jirwan,JRWN
+1878,Jitakheri,JKZ
+1879,Jite,JITE
+1880,Jiyapuram,JPM
+1881,Jmlpr Shaikhan,JPS
+1882,Jmtra Paraswara,JPV
+1883,Jo Jagabor,JO
+1884,Jodhpur Junction,JU
+1885,Jogal,JOL
+1886,Jogbani,JBN
+1887,Jogendranagar,JGNR
+1888,Jogi Magra,JOM
+1889,Jogighopa,JPZ
+1890,Jolarpettai,JTJ
+1891,Jonha,JON
+1892,Jorai,JOQ
+1893,Joramow,JRW
+1894,Joravasan,JRS
+1895,Jorawarnagar Junction,JVN
+1896,Jorhat Town,JTTN
+1897,Joychandi Pahar,JOC
+1898,Jugaur,JRR
+1899,Jugijan,JGJN
+1900,Jugpura,JRG
+1901,Jujumura,JUJA
+1902,Jukehi,JKE
+1903,Julana,JNA
+1904,Junagadh Junction,JND
+1905,Jung Bahadurgnj,JBG
+1906,Junnor Deo,JNO
+1907,Jutogh,JTO
+1908,Jwalapur,JWP
+1909,Kabakaputtur,KBPR
+1910,Kacheguda,KCG
+1911,Kachewani,KWN
+1912,Kachhia Bridge,KCO
+1913,Kachnara Road,KCNR
+1914,Kachujor,KOX
+1915,Kadakavur,KVU
+1916,Kadakola,KDO
+1917,Kadalundi,KN
+1918,Kadambur,KDU
+1919,Kadavakuduru,KVDU
+1920,Kadaynallur,KDNL
+1921,Kadethan,KDTN
+1922,Kadipur,KDQ
+1923,Kadiri,KRY
+1924,Kadiyan,KYM
+1925,Kadur,DRU
+1926,Kafurpur,KFPR
+1927,Kahalgaon,CLG
+1928,Kahet,KRAI
+1929,Kahiliya,KH
+1930,Kaialsa,KIV
+1931,Kaikolur,KKLR
+1932,Kaikoram,KKRM
+1933,Kailahat,KYT
+1934,Kailasapuram,KLPM
+1935,Kaima,KMA
+1936,Kaimganj,KMJ
+1937,Kairla,KAI
+1938,Kaithal,KLE
+1939,Kaithalkuchi,KTCH
+1940,Kajgaon,KJ
+1941,Kajoragram,KJME
+1942,Kajra,KJH
+1943,Kajrat Nawadih,KYF
+1944,Kakapora,KAPE
+1945,Kakarghatti,KKHT
+1946,Kakinada Port,COA
+1947,Kakinada Town,CCT
+1948,Kakirigumma,KKGM
+1949,Kaklur,KKLU
+1950,Kakori,KKJ
+1951,Kala Akhar,KQE
+1952,Kalachand,KQI
+1953,Kaladehi,KDHI
+1954,Kalamb Road,KMRD
+1955,Kalamboli,KLMC
+1956,Kalamboli,KLMG
+1957,Kalamna,KAV
+1958,Kalana,KALN
+1959,Kalanaur Kalan,KLNK
+1960,Kalanwali,KNL
+1961,Kalapipal,KPP
+1962,Kaldhari,KLDI
+1963,Kalgupur,KCP
+1964,Kalhar,KAH
+1965,Kali Sindh,KSH
+1966,Kalian Chak,KXE
+1967,Kalianpur,KAP
+1968,Kalinarynpur Junction,KLNP
+1969,Kalipahari,KPK
+1970,Kaliyanganj,KAJ
+1971,Kalka,KLK
+1972,Kalkund,KKD
+1973,Kallakkudi Plgh,KKPM
+1974,Kallal,KAL
+1975,Kalligudi,KGD
+1976,Kallkiri,KCI
+1977,Kalluru,KLU
+1978,Kalmeshwar,KSWR
+1979,Kalmitar,KLTR
+1980,Kalol,KLL
+1981,Kalpi,KPI
+1982,Kalsur,KVS
+1983,Kalunga,KLG
+1984,Kalupara Ghat,KAPG
+1985,Kalyan Junction,KYN
+1986,Kalyani,KYI
+1987,Kalyanpur Road,KPRD
+1988,Kamakhya,KYQ
+1989,Kamakhyaguri,KAMG
+1990,Kamalapuram,KKM
+1991,Kamalganj,KLJ
+1992,Kamalnagar,KMNR
+1993,Kamalpurgram,KLPG
+1994,Kamalur,KMLR
+1995,Kamarbandha Ali,KXL
+1996,Kamareddi,KMC
+1997,Kamarkundu,KQU
+1998,Kamasamudram,KSM
+1999,Kamathe,KMAH
+2000,Kamli,KMLI
+2001,Kamptee,KP
+2002,Kampur,KWM
+2003,Kamrup Khetri,KKET
+2004,Kamshet,KMST
+2005,Kamtaul,KML
+2006,Kanakpura,KKU
+2007,Kanalas Junction,KNLS
+2008,Kanas Road,KASR
+2009,Kanasar,KNSR
+2010,Kanauta,KUT
+2011,Kanchipuram,CJ
+2012,Kanchrapara,KPA
+2013,Kandaghat,KDZ
+2014,Kandarpur,KDRP
+2015,Kandel Road,KDLR
+2016,Kandra,KND
+2017,Kandrori,KNDI
+2018,Kanginhal,KGX
+2019,Kanhaipur,KNHP
+2020,Kanhangad,KZE
+2021,Kanhegaon,KNGN
+2022,Kanil,KANJ
+2023,Kanina Khas,KNNK
+2024,Kaniwara,KWB
+2025,Kaniyapuram,KXP
+2026,Kanjari Boriyav,KBRV
+2027,Kankaha,KKAH
+2028,Kankanadi,KNKD
+2029,Kankather,KHE
+2030,Kankavali,KKW
+2031,Kanki,KKA
+2032,Kankinara,KNR
+2033,Kannapuram,KPQ
+2034,Kannauj,KJN
+2035,Kannur,CAN
+2036,Kanoh,KANO
+2037,Kanpur Anwrganj,CPA
+2038,Kanpur Central,CNB
+2039,Kanshbahal,KXN
+2040,Kansrao,QSR
+2041,Kantabanji,KBJ
+2042,Kantadih,KTD
+2043,Kantakapalle,KPL
+2044,Kanth,KNT
+2045,Kanthan Junction,KNHN
+2046,Kanthi P H,KATI
+2047,Kanwalpura,KIW
+2048,Kanwat,KAWT
+2049,Kanyakumari,CAPE
+2050,Kapan,KPNA
+2051,Kapasan,KIN
+2052,Kapilas Road,KIS
+2053,Kappil,KFI
+2054,Kapren,KPZ
+2055,Kapseti,KEH
+2056,Kaptanganj Junction,CPJ
+2057,Kapurdha Halt,KPDH
+2058,Kapurthala,KXH
+2059,Karaboh,KRBO
+2060,Karad,KRD
+2061,Karagola Road,CRR
+2062,Karaikal,KIK
+2063,Karaikkudi Junction,KKDI
+2064,Karaila Road Junction,KRLR
+2065,Karajgi,KJG
+2066,Karak Bel,KKB
+2067,Karakavalasa,KVLS
+2068,Karambeli,KEB
+2069,Karamelaram,CRLM
+2070,Karamnasa,KMS
+2071,Karamtola,KRMA
+2072,Karanjadi,KFD
+2073,Karanjgaon,KAJG
+2074,Karanpur Ato,KPTO
+2075,Karauta,KWO
+2076,Karavadi,KRV
+2077,Karbigwan,KBN
+2078,Karchana,KCN
+2079,Karchha,KDHA
+2080,Kareli,KY
+2081,Karengi,KEG
+2082,Karepalli,KRA
+2083,Karepur,KRPR
+2084,Kargi Road,KGB
+2085,Karhiya Bhadeli,KYX
+2086,Kariganuru,KGW
+2087,Karimganj Junction,KXJ
+2088,Karimnagar,KRMR
+2089,Karimuddin Pur,KMDR
+2090,Karisath,KRS
+2091,Karjat,KJT
+2092,Karjoda,KRJD
+2093,Karkeli,KKI
+2094,Karkheli,KEK
+2095,Karmad,KMV
+2096,Karmali,KRMI
+2097,Karna,KAR
+2098,Karnal,KUN
+2099,Karonda,KOA
+2100,Karonji,KJZ
+2101,Karpurigram,KPGM
+2102,Kartarpur,KRE
+2103,Karunagapalli,KPY
+2104,Karur,KRR
+2105,Karwar,KAWR
+2106,Kasara,KSRA
+2107,Kasaragod,KGQ
+2108,Kasganj,KSJ
+2109,Kashi,KEI
+2110,Kashi Chak,KSC
+2111,Kashipur,KPV
+2112,Kashipura Sarar,KSPR
+2113,Kashti,KSTH
+2114,Kasim Kota Halt,KCH
+2115,Kasimkota,KSK
+2116,Kasimpur,KCJ
+2117,Kastha,KSTA
+2118,Kasu,KASU
+2119,Katakhal Junction,KTX
+2120,Katareah,KTRH
+2121,Kathal Pukhuri,KTPR
+2122,Kathara Road,KTRR
+2123,Kathghar,KGF
+2124,Kathgodam,KGM
+2125,Kathleeghat,KEJ
+2126,Kathua,KTHU
+2127,Katihar Junction,KIR
+2128,Katni,KTE
+2129,Katni Murwara,KMZ
+2130,Katni South,KTES
+2131,Katol,KATL
+2132,Katora,KTO
+2133,Katpadi Junction,KPD
+2134,Katphal,KFH
+2135,Katra,KEA
+2136,Katrasgarh,KTH
+2137,Katwa,KWAE
+2138,Kaurha,KUF
+2139,Kavali,KVZ
+2140,Kavathe Mahankl,KVK
+2141,Kavutaram,KVM
+2142,Kawargaon,KWGN
+2143,Kayalpattinam,KZY
+2144,Kayamsar,QMRS
+2145,Kayankulam Junction,KYJ
+2146,Kayar,KAYR
+2147,Kazhakuttam,KZK
+2148,Kazipet Junction,KZJ
+2149,Kcg Falaknuma,FM
+2150,Keckhi,KCKI
+2151,Kedgaon,KDG
+2152,Kelod,KLOD
+2153,Kelva Road,KLV
+2154,Kem,KEM
+2155,Kemri,KEMR
+2156,Kendposi,KNPS
+2157,Kendrapara Road,KNPR
+2158,Kendujhargarh,KDJR
+2159,Kendukana,KDKN
+2160,Kengeri,KGI
+2161,Keolari,KLZ
+2162,Kesamudram,KDM
+2163,Kesavaram,KSVM
+2164,Keshavganj,KVJ
+2165,Keshod,KSD
+2166,Keshorai Patan,KPTN
+2167,Kesinga,KSNG
+2168,Kesri Singhpur,KESR
+2169,Ketti,KXT
+2170,Keutguda,KTGA
+2171,Khachrod,KUH
+2172,Khada,KZA
+2173,Khadapa,KDPA
+2174,Khadki,KK
+2175,Khaga,KGA
+2176,Khagaria Junction,KGG
+2177,Khagraghat Road,KGLE
+2178,Khairar Junction,KID
+2179,Khairatabad Dcn,KQD
+2180,Khairthal,KRH
+2181,Khajauli,KJI
+2182,Khajuraho,KURJ
+2183,Khajwana,KJW
+2184,Khalari,KLRE
+2185,Khalilabad,KLD
+2186,Khalilpur,KIP
+2187,Khalispur,KSF
+2188,Khallikot,KIT
+2189,Khaltipur,KTJ
+2190,Khamargachhi,KMAE
+2191,Khambhaliya,KMBL
+2192,Khamgaon,KMN
+2193,Khammam,KMT
+2194,Khana Junction,KAN
+2195,Khanapur,KNP
+2196,Khandala,KAD
+2197,Khandbaara,KBH
+2198,Khandip,KNDP
+2199,Khandwa,KNW
+2200,Khanna,KNN
+2201,Khanna Banjari,KHBJ
+2202,Khanyan,KHN
+2203,Khapri Kheda,KPKD
+2204,Kharagpur Junction,KGP
+2205,Kharak,KHRK
+2206,Kharia Khangarh,KXG
+2207,Khariar Road,KRAR
+2208,Kharsaliya,KRSA
+2209,Kharsia,KHS
+2210,Kharwa,KRW
+2211,Kharwa Chanda,KRCD
+2212,Khat,KHAT
+2213,Khatauli,KAT
+2214,Khatgaon,KHTG
+2215,Khatima,KHMA
+2216,Khatipura,KWP
+2217,Khatu,KHTU
+2218,Khed,KHED
+2219,Kheduli,KQW
+2220,Khemli,KLH
+2221,Khera Kalan,KHKN
+2222,Kheri Salwa,KSW
+2223,Kheril,KL
+2224,Kheta Sarai,KS
+2225,Khileriyan,KLYN
+2226,Khimel,KZQ
+2227,Khinaniyan,KNNA
+2228,Khirkiya,KKN
+2229,Khirsadoh Junction,KUX
+2230,Khodiyar,KHDB
+2231,Khodiyar,KHD
+2232,Khodri,KOI
+2233,Khoirabari,KBY
+2234,Khongsara,KGS
+2235,Khorason Road,KRND
+2236,Khori,KORI
+2237,Khudiram B Pusa,PUV
+2238,Khudiram B Pusa,KRBP
+2239,Khumtai,KUTI
+2240,Khunkhuna,KKNA
+2241,Khurai,KYE
+2242,Khurda Road Junction,KUR
+2243,Khurdpur,KUPR
+2244,Khurhand,KHU
+2245,Khurial,KWE
+2246,Khurja City,KJY
+2247,Khurja Junction,KRJ
+2248,Khusropur,KOO
+2249,Khutaha,KTHA
+2250,Khutbav,KTT
+2251,Kichha,KHH
+2252,Kikakui Road,KKRD
+2253,Kila Kadaiyam,KKY
+2254,Kila Raipur,QRP
+2255,Kilikollur,KLQ
+2256,Kim,KIM
+2257,Kinwat,KNVT
+2258,Kirakat,KCT
+2259,Kirandul,KRDL
+2260,Kiraoli,KLB
+2261,Kiratgarh,KRTH
+2262,Kiratpur Sahib,KART
+2263,Kirihrapur,KER
+2264,Kirloskarvadi,KOV
+2265,Kiroda,KRC
+2266,Kirodimalnagar,KDTR
+2267,Kishanganj,KNE
+2268,Kishangarh,KSG
+2269,Kishanpur,KSP
+2270,Kishengarh Blws,KGBS
+2271,Kisoni,KONY
+2272,Kistamsettipali,KSTE
+2273,Kita,KITA
+2274,Kiul Junction,KIUL
+2275,Kivarli,KWI
+2276,Kiwar Khed,HKR
+2277,Kochuveli,KCVL
+2278,Kodaganur,KAG
+2279,Kodaikanal Road,KQN
+2280,Kodavaluru,KJJ
+2281,Koderma,KQR
+2282,Kodi,KODI
+2283,Kodiyar Mandir,KDMR
+2284,Kodumudi,KMD
+2285,Koduru,KOU
+2286,Koelwar,KWR
+2287,Kohir Deccan,KOHR
+2288,Koiripur,KEPR
+2289,Kokrajhar,KOJ
+2290,Kolad,KOL
+2291,Kolakalur,KLX
+2292,Kolanukonda,KAQ
+2293,Kolaras,KLRS
+2294,Kolayat,KLYT
+2295,Kolda,KFF
+2296,Kolkata,CP
+2297,Kolkata,KOAA
+2298,Kollam Junction,QLN
+2299,Kollikhutaha,KKTA
+2300,Kolnur,KOLR
+2301,Kolvagram,KVGM
+2302,Komakhan,KMK
+2303,Komatipalli,KMX
+2304,Kondagunta,KQA
+2305,Kondapalli,KI
+2306,Kondapuram,KDP
+2307,Kopa Samhota,KPS
+2308,Kopai,KPLE
+2309,Kopargaon,KPG
+2310,Koparia,KFA
+2311,Koppal,KBL
+2312,Koradih,KRDH
+2313,Korahia,KRHA
+2314,Korai Halt,KRIH
+2315,Koraput,KRPU
+2316,Korba,KRBA
+2317,Koregaon,KRG
+2318,Korukkupet Junction,KOK
+2319,Korukonda,KUK
+2320,Kosad,KSE
+2321,Kosamba Junction,KSB
+2322,Kosgi,KO
+2323,Kosi Kalan,KSV
+2324,Kosli,KSI
+2325,Kot Fatteh,KTF
+2326,Kot Kapura,KKP
+2327,Kota Junction,KOTA
+2328,Kotabommali,KBM
+2329,Kotala,KEN
+2330,Kotalpukur,KLP
+2331,Kotana,KTOA
+2332,Kotapar Road,KPRR
+2333,Kotarlia,KRL
+2334,Kotdwara,KTW
+2335,Kothacheruvu,KTCR
+2336,Kothar,KTR
+2337,Kothari Road,KTHD
+2338,Koti,KOTI
+2339,Kotikulam,KQK
+2340,Kotlakheri,KTKH
+2341,Kotli Kalan,KTKL
+2342,Kotma,KTMA
+2343,Kotmi Sonan Hlt,KTSH
+2344,Kotshila,KSX
+2345,Kotta Pndlpalli,KPLL
+2346,Kottapalli,KYOP
+2347,Kottarakara,KKZ
+2348,Kottavalasa,KTV
+2349,Kottayam,KTYM
+2350,Kovilpatti,CVP
+2351,Kovvur,KVR
+2352,Kozhikode,CLT
+2353,Krishanrajanaga,KRNR
+2354,Krishna,KSN
+2355,Krishna Canal,KCC
+2356,Krishna Ch Pura,KCV
+2357,Krishnama Kona,KEF
+2358,Krishnapur,KRP
+2359,Krishnarajapurm,KJM
+2360,Krishnashilla,KRSL
+2361,Krishngr Cty Junction,KNJ
+2362,Kuchaman City,KMNC
+2363,Kuchman,KCA
+2364,Kudachi,KUD
+2365,Kudal,KUDL
+2366,Kudalnagar,KON
+2367,Kudatini,KDN
+2368,Kudra,KTQ
+2369,Kudsad,KDSD
+2370,Kuhuri,KUU
+2371,Kukra Khapa,KFP
+2372,Kulali,KUI
+2373,Kulem,QLM
+2374,Kulharia,KUA
+2375,Kulitalai,KLT
+2376,Kulitthurai,KZT
+2377,Kulitturai West,KZTW
+2378,Kulpahar,KLAR
+2379,Kulti,ULT
+2380,Kulwa,KLA
+2381,Kumar Sadra,KMSD
+2382,Kumardubi,KMME
+2383,Kumarghat,KUGT
+2384,Kumarhatti,KMTI
+2385,Kumbakonam,KMU
+2386,Kumbhraj,KHRJ
+2387,Kumbla,KMQ
+2388,Kumedpur,KDPR
+2389,Kumhar Marenga,KMEZ
+2390,Kumhari,KMI
+2391,Kumrabad Rohini,KBQ
+2392,Kumsi,KMSI
+2393,Kumta,KT
+2394,Kumtha Khurd,KTKR
+2395,Kunda Harnamgnj,KHNM
+2396,Kundalgarh,KDLG
+2397,Kundapura,KUDA
+2398,Kundara,KUV
+2399,Kundara East,KFV
+2400,Kundarkhi,KD
+2401,Kundgol,KNO
+2402,Kuneanganj,KVG
+2403,Kuneru,KNRT
+2404,Kunki,KZU
+2405,Kuntighat,KJU
+2406,Kup,KUP
+2407,Kupgal,KGL
+2408,Kuppam,KPN
+2409,Kurali,KRLI
+2410,Kurduvadi,KWV
+2411,Kurgunta,KQT
+2412,Kuri,KIF
+2413,Kurichedu,KCD
+2414,Kurla Junction,CLA
+2415,Kurlas,KRLS
+2416,Kurnool Town,KRNT
+2417,Kursela,KUE
+2418,Kurseong,KGN
+2419,Kurukshetra Junction,KKDE
+2420,Kurumbur,KZB
+2421,Kurwai Kethora,KIKA
+2422,Kushtala,KTA
+2423,Kushtaur,KSU
+2424,Kusmhi,KHM
+2425,Kutralam,KTM
+2426,Kuttippuram,KTU
+2427,Kyataneakeri Rd,KTK
+2428,Kyatsandra,KIAT
+2429,Laban,LBN
+2430,Labha,LAV
+2431,Lachhmangarh Sk,LNH
+2432,Lachhmanpur,LMN
+2433,Lachyan,LHN
+2434,Ladda,LDX
+2435,Ladhowal,LDW
+2436,Ladnun,LAU
+2437,Ladpura,LR
+2438,Lagargawan,LGCE
+2439,Lahabon,LHB
+2440,Laheria Sarai,LSI
+2441,Lahli,LHLL
+2442,Lailakh Mamlkha,LMM
+2443,Lajpat Nagar,LPNR
+2444,Lakadiya,LKZ
+2445,Lakheri,LKE
+2446,Lakhewali,LKW
+2447,Lakhimpur,LMP
+2448,Lakhmapur,LKY
+2449,Lakhminia,LKN
+2450,Lakhna,LKNA
+2451,Lakholi,LAE
+2452,Lakhtar,LTR
+2453,Lakkadkot,LKKD
+2454,Lakkavarapukota,LVK
+2455,Lakodara,LKD
+2456,Laksar Junction,LRJ
+2457,Lakshmibai Ngr,LMNR
+2458,Lakswa,LXA
+2459,Lal Kuan,LKU
+2460,Lalaguda Gate,LGDH
+2461,Lalawadi,LLD
+2462,Lalbagh Crt Road,LCAE
+2463,Lalganj,LLJ
+2464,Lalgarh Junction,LGH
+2465,Lalgola,LGL
+2466,Lalgopalganj,LGO
+2467,Lalgudi,LLI
+2468,Lalit Lakshmipr,LLPR
+2469,Lalitpur,LAR
+2470,Lalpur,LLR
+2471,Lalpur Jam,LPJ
+2472,Lalpur Umri,LRU
+2473,Lalru,LLU
+2474,Lamana,LNA
+2475,Lambhua,LBA
+2476,Lamsakhang,LKG
+2477,Lamta,LTA
+2478,Landaura,LDR
+2479,Langting,LGT
+2480,Lanjigarh Road,LJR
+2481,Lanka,LKA
+2482,Laopani,LPN
+2483,Lar Road,LRD
+2484,Lasalgaon,LS
+2485,Laseri,LSE
+2486,Lasur,LSR
+2487,Latehar,LTHR
+2488,Latemda,LMTD
+2489,Lathidad,LTD
+2490,Latur,LUR
+2491,Latur Road,LTRR
+2492,Laul,LAUL
+2493,Laxmipur Road,LKMR
+2494,Ledo,LEDO
+2495,Lehra Gaga,LHA
+2496,Lekoda,LOD
+2497,Leliguma,LLGM
+2498,Lidhora Khurd,LDA
+2499,Liliya Mota,LMO
+2500,Limbdi,LM
+2501,Limbgaon,LBG
+2502,Limkheda,LMK
+2503,Linga,LIG
+2504,Lingampalli,LPI
+2505,Linganenidoddi,LMD
+2506,Lingti,LNT
+2507,Lodipur Bishnpr,LDP
+2508,Loha,LOHA
+2509,Loharu,LHU
+2510,Loharwara,LHW
+2511,Lohian Khas Junction,LNK
+2512,Loisingha,LSX
+2513,Lokdhikhera,LDE
+2514,Lokmanya Nagar,LKMN
+2515,Lokmanyatilak T,LTT
+2516,Lonand,LNN
+2517,Lonavala,LNL
+2518,Londa Junction,LD
+2519,Longrangajao,LJO
+2520,Loni,LONI
+2521,Lorha,LOA
+2522,Lotapahar,LPH
+2523,Lotarva,LTV
+2524,Lovedale,LOV
+2525,Lower Haflong,LFG
+2526,Luckeesarai Junction,LKR
+2527,Lucknow City,LC
+2528,Lucknow Ne,LJN
+2529,Lucknow Nr,LKO
+2530,Ludhiana Junction,LDH
+2531,Lumding Junction,LMG
+2532,Luni Junction,LUNI
+2533,Luni Richha,LNR
+2534,Lunkaransar,LKS
+2535,Lusa,LUSA
+2536,Lusadiya,LSD
+2537,Macharya,MCV
+2538,Machavaram,MCVM
+2539,Machelipatnam,MTM
+2540,Machhakunda,MKRD
+2541,Madan Mahal,MML
+2542,Madanapalle Road,MPL
+2543,Madankata,MNC
+2544,Madanpur,MPJ
+2545,Madar,MD
+2546,Madar Jn,MDJN
+2547,Madavnagar Road,MDRR
+2548,Maddikera,MKR
+2549,Maddur,MAD
+2550,Madgaon,MAO
+2551,Madha,MA
+2552,Madhavnagar,MDVR
+2553,Madhi,MID
+2554,Madhira,MDR
+2555,Madhopur Punjab,MDPB
+2556,Madhosingh,MBS
+2557,Madhubani,MBI
+2558,Madhupur Junction,MDP
+2559,Madurai Junction,MDU
+2560,Madurantakam,MMK
+2561,Madure,MADR
+2562,Madwarani,MWRN
+2563,Maghar,MHH
+2564,Magra,MUG
+2565,Mahadanapuram,MMH
+2566,Mahadeokhedi,MDVK
+2567,Mahadevsal,MXW
+2568,Mahajan,MHJ
+2569,Mahali Marup,MMV
+2570,Mahanadi,MHN
+2571,Mahanagar,MANG
+2572,Mahansar,MWR
+2573,Mahasamund,MSMD
+2574,Mahbubabad,MABD
+2575,Mahbubnagar,MBNR
+2576,Mahe,MAHE
+2577,Mahendragarh,MHRG
+2578,Mahes Khunt,MSK
+2579,Mahesana Junction,MSH
+2580,Maheshi,MVV
+2581,Maheshmunda,MMD
+2582,Mahidpur Road,MEP
+2583,Mahipal Road,MPLR
+2584,Mahmudabad Avdh,MMB
+2585,Mahoba,MBA
+2586,Maholi,MAHO
+2587,Mahpur,MHO
+2588,Mahroi,MFQ
+2589,Mahuda,MHQ
+2590,Mahugarha,MUGA
+2591,Mahur,MXR
+2592,Mahuva Junction,MHV
+2593,Mahwa,MWW
+2594,Maibang,MBG
+2595,Maihar,MYR
+2596,Maikalganj,MINJ
+2597,Mailani,MLN
+2598,Mailaram,MWY
+2599,Mailongdisa,MGX
+2600,Mainpuri,MNQ
+2601,Mairwa,MW
+2602,Majbat,MJBT
+2603,Majhagawan,MJG
+2604,Majhola Pakarya,MJZ
+2605,Majhowlia,MJL
+2606,Majri Junction,MJRI
+2607,Makarpura,MPR
+2608,Makhdumpur Gaya,MDE
+2609,Makhu,MXH
+2610,Maklidrug,MKL
+2611,Makrana Junction,MKN
+2612,Makrandpur,MQP
+2613,Makrera,MKRA
+2614,Makronia,MKRN
+2615,Maksi,MKC
+2616,Makudi,MKDI
+2617,Makum Junction,MJN
+2618,Malakhera,MKH
+2619,Malakpet Kcg,MXT
+2620,Malancha,MLNH
+2621,Malanpur,MLAR
+2622,Malarna,MLZ
+2623,Malavli,MVL
+2624,Malda Town,MLDT
+2625,Malegaon Vyenku,MGVK
+2626,Malerkotla,MET
+2627,Malhar,MAAR
+2628,Malhargarh,MLG
+2629,Malhour,ML
+2630,Maligura,MVG
+2631,Malihabad,MLD
+2632,Malikpeth,MKPT
+2633,Malikpur,MLKP
+2634,Malipur,MLPR
+2635,Maliya,MALX
+2636,Maliya Hatina,MLHA
+2637,Maliya Miyana,MALB
+2638,Malkajgiri,MJF
+2639,Malkapur,MKU
+2640,Malkapur Road,MALK
+2641,Malkapuram,MLK
+2642,Malkhaid Road,MQR
+2643,Malkhedi,MAKR
+2644,Malkisar,MLC
+2645,Mallanwala Khas,MWX
+2646,Mallappa Gate,MLGT
+2647,Mallapur,MLP
+2648,Mallarpur,MLV
+2649,Malleswaram,MWM
+2650,Mallickpur Hat,MKRH
+2651,Mallividu,MVW
+2652,Malliyala,MYL
+2653,Malout,MOT
+2654,Malsian Shahkht,MQS
+2655,Malthan,MLM
+2656,Malur,MLO
+2657,Malwan,MWH
+2658,Maman,MOM
+2659,Mambalam,MBM
+2660,Manabar,MVF
+2661,Manaksar,MNSR
+2662,Manamadurai Junction,MNM
+2663,Mananpur,MNP
+2664,Mananwala,MOW
+2665,Manaparai,MPA
+2666,Manauri,MRE
+2667,Mancheral,MCI
+2668,Mancheswar,MCS
+2669,Manda Road,MNF
+2670,Mandagere,MGF
+2671,Mandal,MDL
+2672,Mandalgarh,MLGH
+2673,Mandamari,MMZ
+2674,Mandapam,MMM
+2675,Mandasa Road,MMS
+2676,Mandasor,MDS
+2677,Mandavalli,MDVL
+2678,Mandawar M Road,MURD
+2679,Manderdisa,MYD
+2680,Mandhar,MDH
+2681,Mandi Adampur,ADR
+2682,Mandi Bamora,MABA
+2683,Mandi Dabwali,MBY
+2684,Mandi Dhanaura,MNDR
+2685,Mandi Dip,MDDP
+2686,Mandir Hasaud,MNDH
+2687,Mandor,MDB
+2688,Mandrak,MXK
+2689,Manduadih,MUV
+2690,Mandya,MYA
+2691,Manendragarh,MDGR
+2692,Mangal Mahudi,MAM
+2693,Mangalagiri,MAG
+2694,Mangaliyawas,MLI
+2695,Mangalore Cntl,MAQ
+2696,Mangalore Junction,MAJN
+2697,Mangaon,MNI
+2698,Mangliya Gaon,MGG
+2699,Mangolpuri,MGLP
+2700,Mangrolla,MGRL
+2701,Manheru,MHU
+2702,Mani Nagar,MANI
+2703,Manigram,MGLE
+2704,Manikgarh,MAGH
+2705,Manikpur Junction,MKP
+2706,Manikul,MIK
+2707,Maninagar,MAN
+2708,Maniyachchi Junction,MEJ
+2709,Manjari Budruk,MJBK
+2710,Manjeshwar,MJS
+2711,Manjhi,MHT
+2712,Mankapur Junction,MUR
+2713,Mankar,MNAE
+2714,Mankatha,MKB
+2715,Manmad Junction,MMR
+2716,Mannargudi,MQ
+2717,Manoharabad,MOB
+2718,Manoharganj,MNJ
+2719,Manoharpur,MOU
+2720,Mansa,MSZ
+2721,Mansi Junction,MNE
+2722,Mantatti,MVH
+2723,Manthralayam Road,MALM
+2724,Manuguru,MUGR
+2725,Manwath Road,MVO
+2726,Marahra,MH
+2727,Maramjhiri,MJY
+2728,Marampalli,MRPL
+2729,Mararikulam,MAKM
+2730,Marauda,MXA
+2731,Marenga,MEZ
+2732,Margherita,MRG
+2733,Mariahu,MAY
+2734,Mariani Junction,MXN
+2735,Maripat,MIU
+2736,Markahandi U Ht,MQQ
+2737,Markapur Road,MRK
+2738,Markona,MKO
+2739,Markundi,MKD
+2740,Maroli,MRL
+2741,Marpalli,MRF
+2742,Marripalem Ph,MIPM
+2743,Marthipalayam,MPLM
+2744,Martur,MR
+2745,Marwar Balia,MBSK
+2746,Marwar Bhinmal,MBNL
+2747,Marwar Chapri,MCPE
+2748,Marwar Junction,MJ
+2749,Marwar Lohwat,MWT
+2750,Marwar Mathanya,MMY
+2751,Marwar Mundwa,MDW
+2752,Marwasgram,MWJ
+2753,Masaipet,ME
+2754,Masit,MST
+2755,Maskanwa,MSW
+2756,Masudan,MSDN
+2757,Masur,MSR
+2758,Matheran,MAE
+2759,Mathura Cant,MRT
+2760,Mathura Junction,MTJ
+2761,Mathurapur,MUW
+2762,Matlabpur,MTB
+2763,Matmari,MTU
+2764,Mau Aimma,MEM
+2765,Mau Junction,MAU
+2766,Mau Ranipur,MRPR
+2767,Mauhari,MZH
+2768,Maula Ali,MLY
+2769,Maur,MAUR
+2770,Maval,MAA
+2771,Mavelikara,MVLK
+2772,Mavli Junction,MVJ
+2773,Mayakonda,MYK
+2774,Mayiladuturai J,MV
+2775,Mayyanad,MYY
+2776,Mccluskieganj,MGME
+2777,Mecheda,MCA
+2778,Mecheri Road,MCRD
+2779,Medapadu,MPU
+2780,Medchal,MED
+2781,Meerut Cant,MUT
+2782,Meerut City,MTC
+2783,Meghnagar,MGN
+2784,Mehnar Road,MNO
+2785,Mehsi,MAI
+2786,Meja Road,MJA
+2787,Melattur,MLTR
+2788,Melmaruvattur,MLMR
+2789,Melusar,MELH
+2790,Memari,MYM
+2791,Meralgram,MQX
+2792,Meramandolil,MRDL
+2793,Merta Road Junction,MTD
+2794,Metupalaiyam,MTP
+2795,Metur Dam,MTDM
+2796,Metyal Sohar,MYX
+2797,Mewa Nawada,MWE
+2798,Mhasoda Dongar,MSDG
+2799,Mhmdvd Kheda Road,MHD
+2800,Mhow,MHOW
+2801,Midnapore,MDN
+2802,Migrendisa,MGE
+2803,Mihinpurwa,MIN
+2804,Mihrawan,MIH
+2805,Milak,MIL
+2806,Milavittan,MVN
+2807,Minchnal,MNL
+2808,Miraj Junction,MRJ
+2809,Miranpur Katra,MK
+2810,Mirchadhori,MCQ
+2811,Mirhakur,MIQ
+2812,Mirkhal,MQL
+2813,Mirthal,MRTL
+2814,Miryalaguda,MRGA
+2815,Mirza Cheuki,MZC
+2816,Mirzapali,MZL
+2817,Mirzapur,MZP
+2818,Misrauli,MFL
+2819,Misrod,MSO
+2820,Mitawal,MTI
+2821,Mithapur,MTHP
+2822,Miyagam Karjan,MYG
+2823,Miyana,MYN
+2824,Miyana,MINA
+2825,Modinagar,MDNR
+2826,Modnimb,MLB
+2827,Modran,MON
+2828,Modukuru,MDKU
+2829,Moga,MOGA
+2830,Mohadi Prgn Lng,MHAD
+2831,Mohammadkhera,MQE
+2832,Mohandi,MHND
+2833,Mohanlalganj,MLJ
+2834,Mohanur,MONR
+2835,Mohapani Mal,MPML
+2836,Moharajpur,MJP
+2837,Mohibullapur,MBP
+2838,Mohitnagar,MOP
+2839,Mohiuddinnagar,MOG
+2840,Mohol,MO
+2841,Mohope,MHPE
+2842,Mokalsar,MKSR
+2843,Mokameh Junction,MKA
+2844,Mokholi,MXL
+2845,Molakalmuru,MOMU
+2846,Mondh,MOF
+2847,Monu,MANU
+2848,Mor,MOR
+2849,Moradabad,MB
+2850,Morak,MKX
+2851,Moranhat,MRHT
+2852,Morappur,MAP
+2853,Morbi,MVI
+2854,Mordad Tanda,MWK
+2855,Mordar,MRDD
+2856,Morena,MRA
+2857,Morgram,MGAE
+2858,Mori Bera,MOI
+2859,Morinda,MRND
+2860,Morkadhana,MKDN
+2861,Morshi,MRSH
+2862,Morthala,MXO
+2863,Morwani,MRN
+2864,Moth,MOTH
+2865,Motichur,MOTC
+2866,Motipur,MTR
+2867,Mowad,MWAD
+2868,Muddanuru,MOO
+2869,Mudkhed,MUE
+2870,Muftiganj,MFJ
+2871,Mugat,MGC
+2872,Mughal Sarai Junction,MGS
+2873,Muhammadabad,MMA
+2874,Muhammadganj,MDJ
+2875,Mukerian,MEX
+2876,Mukhasa Parur,MKSP
+2877,Mukhtiar Balwar,MKT
+2878,Muktapur,MKPR
+2879,Muktsar,MKS
+2880,Mukundarayapurm,MCN
+2881,Mukundawadi Ha,MKDD
+2882,Mukuria,MFA
+2883,Mul Marora,MME
+2884,Mulacalacheruvu,MCU
+2885,Mulanturutti,MNTT
+2886,Mulanur,MAR
+2887,Muli Road,MOL
+2888,Mulki,MULK
+2889,Multai,MTY
+2890,Mulvad,MVD
+2891,Mumbai Central,BCT
+2892,Mumbai Cst,CSTM
+2893,Munabao,MBF
+2894,Mundalaram,MDLM
+2895,Munderwa,MND
+2896,Mundha Pande,MPH
+2897,Mundhewadi,MVE
+2898,Mundikota,MNU
+2899,Mungaiakami,MGKM
+2900,Mungaoli,MNV
+2901,Muniguda,MNGD
+2902,Munirabad,MRB
+2903,Munroturuttu,MQO
+2904,Munumaka,MUK
+2905,Mupa,MUPA
+2906,Muradnagar,MUD
+2907,Muragacha,MGM
+2908,Murarai,MRR
+2909,Murarpur,MPY
+2910,Murdeshwar,MRDW
+2911,Murgamahadev Rd,MMVR
+2912,Murhipar,MUP
+2913,Muri,MURI
+2914,Muribahal,MRBL
+2915,Murkeongselek,MZS
+2916,Murliganj,MRIJ
+2917,Mursan,MSN
+2918,Murshadpur,MSDR
+2919,Murshidabad,MBB
+2920,Murtajapur,MZR
+2921,Murti,MRTY
+2922,Murud,MRX
+2923,Murukkampuzha,MQU
+2924,Musafir Khana,MFKA
+2925,Musra,MUA
+2926,Mustabada,MBD
+2927,Muzaffarnagar,MOZ
+2928,Muzaffarpur Junction,MFP
+2929,Muzzampur Nryn,MZM
+2930,Mysore Junction,MYS
+2931,N Ghaziabad,GZN
+2932,N. Panakudi,NPK
+2933,Nabadwip Dham,NDAE
+2934,Nabenagar Road,NBG
+2935,Nabha,NBA
+2936,Nabipur,NIU
+2937,Nadauj,NDU
+2938,Nadbai,NBI
+2939,Nadiad Junction,ND
+2940,Nadikode,NDKD
+2941,Nadwan,NDW
+2942,Nagalapalle,NPL
+2943,Naganahalli,NHY
+2944,Nagansur,NGS
+2945,Nagaon,NGAN
+2946,Nagappattinam,NGT
+2947,Nagar,NGE
+2948,Nagar Untari,NUQ
+2949,Nagari,NGI
+2950,Nagari,NG
+2951,Nagaria Sadat,NRS
+2952,Nagarnabi,NGF
+2953,Nagarsol,NSL
+2954,Nagarur,NRR
+2955,Nagarwara,NWA
+2956,Nagaur,NGO
+2957,Nagbhir Junction,NAB
+2958,Nagda Junction,NAD
+2959,Nager Coil Town,NJT
+2960,Nagercoil Junction,NCJ
+2961,Nageshwadi Halt,NGHW
+2962,Nagina,NGG
+2963,Nagireddipalli,NRDP
+2964,Naglatula,NGLT
+2965,Nagore,NCR
+2966,Nagothane,NGTN
+2967,Nagpur,NGP
+2968,Nagpur Road,NPRD
+2969,Naharkatiya,NHK
+2970,Naharlagun,NHLN
+2971,Naihati Junction,NH
+2972,Naikheri,NKI
+2973,Naila,NIA
+2974,Naini,NYN
+2975,Nainpur Junction,NIR
+2976,Najibabad Junction,NBD
+2977,Nakachari,NCH
+2978,Nakkanadoddi,NKDO
+2979,Nakodar Junction,NRO
+2980,Naksalbari,NAK
+2981,Naktisemra,NKX
+2982,Nal Halt,NAL
+2983,Nal Halt,NX
+2984,Nalanda,NLD
+2985,Nalbari,NLV
+2986,Nalgonda,NLDA
+2987,Nalhati Junction,NHT
+2988,Nallapadu,NLPD
+2989,Naloi Barwa,BVZ
+2990,Nalwar,NW
+2991,Namakkal,NMKL
+2992,Namburu,NBR
+2993,Namkhana,NMKA
+2994,Namkon,NKM
+2995,Namli,NLI
+2996,Namrup,NAM
+2997,Namtiali,NMT
+2998,Nana,NANA
+2999,Nandalur,NRE
+3000,Nanded,NED
+3001,Nandesari,NDR
+3002,Nandganj,NDJ
+3003,Nandgaon,NGN
+3004,Nandgaon Road,NAN
+3005,Nandol Dehegam,NHM
+3006,Nandre,NDE
+3007,Nandura,NN
+3008,Nandurbar,NDB
+3009,Nandyal,NDL
+3010,Nangal Dam,NLDM
+3011,Nangloi,NNO
+3012,Nanguneri,NNN
+3013,Nanjangud Town,NTW
+3014,Nanpara Junction,NNP
+3015,Napasar,NPS
+3016,Naraikkinar,NRK
+3017,Naraina,NRI
+3018,Naraj Marthapur,NQR
+3019,Narangi,NNGE
+3020,Naranjipur,NRGR
+3021,Naranpur,NANR
+3022,Narasapur,NS
+3023,Narasaraopet,NRT
+3024,Narasingapalli,NASP
+3025,Narayanapuram,NRYP
+3026,Narayanpet Road,NRPD
+3027,Narayanpur,NNR
+3028,Naraynpur Anant,NRPA
+3029,Nardana,NDN
+3030,Narela,NUR
+3031,Nariaoli,NOI
+3032,Narkatiaganj Junction,NKE
+3033,Narkher,NRKR
+3034,Narnaul,NNL
+3035,Naroda,NRD
+3036,Narsinghpur,NU
+3037,Narsipatnam Road,NRP
+3038,Narsipuram Halt,NSX
+3039,Narwana Junction,NRW
+3040,Narwasi,NRWI
+3041,Nashipur Road,NSO
+3042,Nasik Road,NK
+3043,Nasirabad,NSD
+3044,Nasrala,NAS
+3045,Nathdwara,NDT
+3046,Nathnagar,NAT
+3047,Nathwana,NTZ
+3048,Naugachia,NNA
+3049,Naugarh,NUH
+3050,Naupada Junction,NWP
+3051,Nautanwa,NTV
+3052,Navabpalem,NBM
+3053,Navade Road,NVRD
+3054,Navagadh,NUD
+3055,Navapur,NWU
+3056,Navipet,NVT
+3057,Navsari,NVS
+3058,Nawa City,NAC
+3059,Nawabganj Gonda,NGB
+3060,Nawadah,NWD
+3061,Nawagaon,NVG
+3062,Nawalgarh,NWH
+3063,Nawan,NAWN
+3064,Nawandgi,NAW
+3065,Nawapara Road,NPD
+3066,Naya Azadpur,NDAZ
+3067,Naya Kharadia,NYK
+3068,Naya Nangal,NNGL
+3069,Nayadupeta,NYP
+3070,Nayagaon,NYO
+3071,Nayagarh,NYG
+3072,Nayandahalli,NYH
+3073,Nazareth,NZT
+3074,Nazirganj,NAZJ
+3075,Nekonda,NKD
+3076,Nellore,NLR
+3077,Nenpur,NEP
+3078,Neora,NEO
+3079,Neora Naddi,NOR
+3080,Nepanagar,NPNR
+3081,Neral,NRL
+3082,Nergundi,NRG
+3083,New Alipurdaur,NOQ
+3084,New Amravat,NAVI
+3085,New Balarampur,NBPH
+3086,New Bongaigaon,NBQ
+3087,New Cooch Behar,NCB
+3088,New Delhi,NDLS
+3089,New Farakka Junction,NFK
+3090,New Guntur,NGNT
+3091,New Haflong,NHLG
+3092,New Harangajao,NHGJ
+3093,New Jalpaiguri,NJP
+3094,New Katni Junction,NKJ
+3095,New Mal Junction,NMZ
+3096,New Maynaguri,NMX
+3097,New Misamari,NMM
+3098,New Morinda,NMDA
+3099,New Tinsukia Junction,NTSK
+3100,Neyyattinkara,NYY
+3101,Nibhapur,NBP
+3102,Nidadavolu Junction,NDD
+3103,Nidamangalam,NMJ
+3104,Nidhani,NDNI
+3105,Nidigallu,NDZ
+3106,Nidubrolu,NDO
+3107,Nigaura,NIQ
+3108,Nigohan,NHN
+3109,Nihalgarh,NHH
+3110,Nilaje,NILD
+3111,Nilaje,JNRD
+3112,Nilaje,NIIJ
+3113,Nilakantheswar,NKW
+3114,Nilambur Road,NIL
+3115,Nileshwar,NLE
+3116,Nilokheri,NLKR
+3117,Nim Ka Thana,NMK
+3118,Nimach,NMH
+3119,Nimar Kheri,NKR
+3120,Nimbahera,NBH
+3121,Nimbal,NBL
+3122,Nimbhora,NB
+3123,Nimdih,NIM
+3124,Nimpura,NMP
+3125,Nimtita,NILE
+3126,Nindhar Benar,NDH
+3127,Ningala Junction,NGA
+3128,Nipani Vadgaon,NPW
+3129,Nipania,NPI
+3130,Niphad,NR
+3131,Nira,NIRA
+3132,Nirakarpur,NKP
+3133,Nisui,NSU
+3134,Nivari,NEW
+3135,Nivasar,NIV
+3136,Niwar,NWR
+3137,Niwas Road,NWB
+3138,Niyol,NOL
+3139,Nizamabad,NZB
+3140,Nizampur,NIP
+3141,Nmg Tamdalge,NMGT
+3142,Noadar Dhal,NRX
+3143,Noamundi,NOMD
+3144,Nohar,NHR
+3145,Nokha,NOK
+3146,Nokhra,NKRA
+3147,Nomoda,NMD
+3148,Nonera,NNE
+3149,Norla Road,NRLR
+3150,North Lakhimpur,NLP
+3151,Nosaria,NOA
+3152,Nowrozabad,NRZB
+3153,Nrynpur Tatwar,NNW
+3154,Nua,NUA
+3155,Nuagaon,NXN
+3156,Nudurupadu,NDPU
+3157,Nujella,NUJ
+3158,Numaligarh,NMGY
+3159,Nunkhar,NRA
+3160,Nurmahal,NRM
+3161,Nuzvid,NZD
+3162,Obaidulla Ganj,ODG
+3163,Obra Dam,OBR
+3164,Obulavaripalli,OBVP
+3165,Oddam Hatram,ODC
+3166,Oddarahalli,ORH
+3167,Odela,OEA
+3168,Odha,ODHA
+3169,Okha,OKHA
+3170,Okhla,OKA
+3171,Old Malda,OMLF
+3172,Omalur,OML
+3173,Omkareshwar Rd,OM
+3174,Ondagram,ODM
+3175,Ongole,OGL
+3176,Orai,ORAI
+3177,Orga,ORGA
+3178,Orr,ORR
+3179,Osiyan,OSN
+3180,Ottappalam,OTP
+3181,Pabai,PAI
+3182,Pachhapur,PCH
+3183,Pachor Road,PFR
+3184,Pachora Junction,PC
+3185,Pachwan,PNWN
+3186,Padadhari,PDH
+3187,Padampur,PDF
+3188,Padhegaon,PDGN
+3189,Padla,PDQ
+3190,Padnur,PDNR
+3191,Padrauna,POU
+3192,Padriganj,PNJ
+3193,Padse,PDP
+3194,Padua,PFU
+3195,Padubidri,PDD
+3196,Padugupadu,PGU
+3197,Pagara,PGA
+3198,Pagla Chandi,PCX
+3199,Pahara,PRE
+3200,Paharpur,PRP
+3201,Paharsar,PRSR
+3202,Pakala Junction,PAK
+3203,Pakara Road,PKRD
+3204,Pakki,PKK
+3205,Pakni,PK
+3206,Pakur,PKR
+3207,Palachauri,PCLI
+3208,Palaiyam,PALM
+3209,Palakkad,PGT
+3210,Palakkodu,PCV
+3211,Palakollu,PKO
+3212,Palam,PM
+3213,Palana,PAE
+3214,Palani,PLNI
+3215,Palanpur Junction,PNU
+3216,Palari,PUE
+3217,Palasa,PSA
+3218,Paldhi,PLD
+3219,Palej,PLJ
+3220,Palghar,PLG
+3221,Palghat Town,PGTN
+3222,Pali A,PAIL
+3223,Pali Marwar,PMY
+3224,Palia,PLA
+3225,Palia Kalan,PLK
+3226,Paliba,PBV
+3227,Palikona,POA
+3228,Palitana,PIT
+3229,Pallikere,PKP
+3230,Palliyadi,PYD
+3231,Palsana,PLSN
+3232,Palsora Makrawa,PSO
+3233,Palwal,PWL
+3234,Paman,PMN
+3235,Pamban Junction,PBM
+3236,Pamidi,PMD
+3237,Pampore,PMPE
+3238,Panagarh,PAN
+3239,Panapakam,PAM
+3240,Panbari,PNB
+3241,Panch Pipila,PCN
+3242,Panchgram,PNGM
+3243,Panchra,PCR
+3244,Pandabeswar,PAW
+3245,Pandaul,PDW
+3246,Pandavapura,PANP
+3247,Pandharpur,PVR
+3248,Pandhurna,PAR
+3249,Pandoli,PMO
+3250,Paneli Moti,PLM
+3251,Pangaon,PNF
+3252,Pangri,PJR
+3253,Paniahwa,PNYA
+3254,Paniajob,PJB
+3255,Panikhaiti,PHI
+3256,Panipat Junction,PNP
+3257,Panisagar,PASG
+3258,Panjgam,PJGM
+3259,Panki,PNK
+3260,Panoli,PAO
+3261,Panpali,PNPL
+3262,Panposh,PPO
+3263,Panruti,PRT
+3264,Pansar,PN
+3265,Panskura,PKU
+3266,Pantnagar,PBW
+3267,Panvel,PNVL
+3268,Panyam,PNM
+3269,Papanasam,PML
+3270,Papinayaknahali,PKL
+3271,Paradgaon,PDG
+3272,Paradip,PRDP
+3273,Paradol,PRDL
+3274,Paradsinga Halt,PSK
+3275,Paraiya,PRY
+3276,Paramakkudi,PMK
+3277,Paras,PS
+3278,Parashshala,PASA
+3279,Parasia,PUX
+3280,Parasnath,PNME
+3281,Paravur,PVU
+3282,Parbati,PRB
+3283,Parbhani Junction,PBN
+3284,Pardi,PAD
+3285,Parewadi,PRWD
+3286,Parhihara,PIH
+3287,Parisal,PSL
+3288,Parli Vaijnath,PRLI
+3289,Parmanandpur,PMU
+3290,Parpanangadi,PGI
+3291,Parsa Bazar,PRBZ
+3292,Parsa Khera,PKRA
+3293,Parsabad,PSB
+3294,Parsipur,PRF
+3295,Parsneu,PSV
+3296,Parsoda,PSD
+3297,Parsoli,PSLI
+3298,Partapgarh Junction,PBH
+3299,Partur,PTU
+3300,Parvatipuram,PVP
+3301,Parvatipuram Tn,PVPT
+3302,Pasivedala,PSDA
+3303,Pasraha,PSR
+3304,Patakottacheru,PLU
+3305,Patal Pani,PTP
+3306,Patansaongi,PTS
+3307,Patara,PTRE
+3308,Patas,PAA
+3309,Pataudi Road,PTRD
+3310,Patchur,PU
+3311,Pathankot,PTK
+3312,Pathankot Cantt,PTKC
+3313,Pathardih Bazar,PBQ
+3314,Pathardih Junction,PEH
+3315,Patharia,PHA
+3316,Patharkandi,PTKD
+3317,Patharkhola S,PKB
+3318,Pathauli,PTLI
+3319,Pathrad,PARD
+3320,Pathrala,PTRL
+3321,Pathri,PRI
+3322,Pathsala,PBL
+3323,Patiala,PTA
+3324,Patliputra,PPTA
+3325,Patna Junction,PNBE
+3326,Patna Saheb,PNC
+3327,Patranga,PTH
+3328,Patratu,PTRU
+3329,Patsul,PTZ
+3330,Pattambi,PTB
+3331,Pattikkad,PKQ
+3332,Patwara,PTWA
+3333,Pavurchutram,PCM
+3334,Pawapuri Road,PQE
+3335,Pawapuri Road H,POE
+3336,Payagpur,PDR
+3337,Payangadi,PAZ
+3338,Payradanga,PDX
+3339,Payyanur,PAY
+3340,Payyoli,PYOL
+3341,Pedabramadvam,PBD
+3342,Pedana,PAV
+3343,Pedanyknpalayam,PDKM
+3344,Pedda Avutapale,PAVP
+3345,Peddakurapadu,PKPU
+3346,Peddapalli,PDPL
+3347,Peddavadiapudi,PVD
+3348,Peddempet,PPZ
+3349,Pembarti,PBP
+3350,Pen,PEN
+3351,Pencharthal,PEC
+3352,Pendekallu,PDL
+3353,Pendra Road,PND
+3354,Pendurti,PDT
+3355,Pennadam,PNDM
+3356,Penukonda,PKD
+3357,Penumarru,PUMU
+3358,Peppeganj,PJ
+3359,Peralam Jn,PEM
+3360,Perambur,PER
+3361,Perecherla,PRCA
+3362,Pergaon,PG
+3363,Pernem,PERN
+3364,Perunguzhi,PGZ
+3365,Pettaivayatalai,PLI
+3366,Pgdp,PGDP
+3367,Phagwara Junction,PGW
+3368,Phalodi,PLC
+3369,Phalodi Junction,PLCJ
+3370,Phanda,PUD
+3371,Phaphamau Junction,PFM
+3372,Phaphund,PHD
+3373,Phephna Junction,PEP
+3374,Phesar,PES
+3375,Phiding,PDJ
+3376,Phillaur Junction,PHR
+3377,Phirangipuram,PPM
+3378,Phulera Junction,FL
+3379,Phuleswar,FLR
+3380,Phulpur,PLP
+3381,Phulwari Sharif,PWS
+3382,Phulwartanr,PLJE
+3383,Phusro,PUS
+3384,Piardoba,PBA
+3385,Pichkurirdhal,PCQ
+3386,Piduguralla,PGRL
+3387,Pilamedu,PLMD
+3388,Piler,PIL
+3389,Pili Bangan,PGK
+3390,Pilibhit Junction,PBE
+3391,Pilioda,PDZ
+3392,Pilkhua,PKW
+3393,Pimpalkhuti,PMKT
+3394,Pimpri,PMP
+3395,Pindlai,PQL
+3396,Pindra Road,PDRD
+3397,Pindrai,PDE
+3398,Pingleshwar,PLW
+3399,Pingli,PIZ
+3400,Pipalsana,PLS
+3401,Pipar Road Junction,PPR
+3402,Pipardahi,PED
+3403,Pipariya,PPI
+3404,Piparsand,POF
+3405,Pipla Halt,PQA
+3406,Piplaj,PPF
+3407,Piplia,PIP
+3408,Piplod Junction,PPD
+3409,Piploda Bagla,PPG
+3410,Pipra,PPA
+3411,Pipraich,PPC
+3412,Pipraigaon,PIA
+3413,Piprala,PFL
+3414,Pipri Dih,PPH
+3415,Pir Umrod,PUO
+3416,Piravam Road,PVRD
+3417,Pirdulesha Halt,PRDH
+3418,Pirpainti,PPT
+3419,Pirtala,PRTL
+3420,Pirthiganj,PHV
+3421,Pirumadara,PRM
+3422,Pirwa,PW
+3423,Pitambarpur,PMR
+3424,Pithapuram,PAP
+3425,Plassey,PLY
+3426,Pmbakvl Shandy,PBKS
+3427,Pocharam,PCZ
+3428,Podanur Junction,PTJ
+3429,Pokharni Nrsnha,PKNS
+3430,Pokhrayan,PHN
+3431,Pokla,PKF
+3432,Pokran,POK
+3433,Polur,PRL
+3434,Ponduru,PDU
+3435,Ponmlai Gld Rck,GOC
+3436,Pophlaj,PPJ
+3437,Porbandar,PBR
+3438,Porjanpur,PRNR
+3439,Posotia,PST
+3440,Pothahi,PFT
+3441,Pothia,POT
+3442,Potkapalli,PTKP
+3443,Potlapadu,POO
+3444,Potul,POZ
+3445,Powerkheda,PRKD
+3446,Powerpet,PRH
+3447,Pradhankhunta,PKA
+3448,Prantij,PRJ
+3449,Prantik,PNE
+3450,Prasannayanapal,PSPY
+3451,Prattiapadu,PTPU
+3452,Prayag,PRG
+3453,Prshtampatnam,PRPT
+3454,Ptnsngi Twn Hlt,PSX
+3455,Puducherry,PDY
+3456,Pudukad,PUK
+3457,Pudukkottai,PDKT
+3458,Pugalur,PGR
+3459,Pukkirivari,PRV
+3460,Pulgaon Junction,PLO
+3461,Pulla,PUA
+3462,Pullampet,PMT
+3463,Punalur,PUU
+3464,Punarakh,PHK
+3465,Pundhag,PNW
+3466,Pundi,PUN
+3467,Pundooah,PDA
+3468,Pune Junction,PUNE
+3469,Punkunnam,PNQ
+3470,Punpun,PPN
+3471,Punsia,PNSA
+3472,Puntamba,PB
+3473,Puraini,PNI
+3474,Puranpur,PP
+3475,Purbasthali,PSAE
+3476,Puri,PURI
+3477,Purna Junction,PAU
+3478,Purnia Junction,PRNA
+3479,Purua Khera,PRKE
+3480,Purulia Junction,PRR
+3481,Pusauli,PSE
+3482,Pusla,PUSA
+3483,Putalapattu,PTT
+3484,Putlacheruvu,PCU
+3485,Puttur,PUT
+3486,Pwn Klaknder Road,PQN
+3487,Quilandi,QLD
+3488,Rachagunnari,RCG
+3489,Radhagaon,RDF
+3490,Radhakishorepur,RQP
+3491,Radhanpur,RDHP
+3492,Radhikapur,RDP
+3493,Rae Bareli Junction,RBL
+3494,Rafiganj,RFJ
+3495,Ragaul,RGU
+3496,Raghavapuram,RGPM
+3497,Raghunathpalli,RGP
+3498,Raghunathpur,RPR
+3499,Raghunathpur,RCTC
+3500,Raghuraj Singh,RRS
+3501,Rahama,RHMA
+3502,Rahenbata,RNBT
+3503,Rahimabad,RBD
+3504,Rahimatpur,RMP
+3505,Rahuri,RRI
+3506,Rai Singh Nagar,RSNR
+3507,Raichur,RC
+3508,Raigadh Road,RGQ
+3509,Raiganj,RGJ
+3510,Raigarh,RIG
+3511,Raigir,RAG
+3512,Raika Bagh,RKB
+3513,Raimehatpur,MTPR
+3514,Raipur Junction,R
+3515,Rairakhol,RAIR
+3516,Raisi,RSI
+3517,Raiwala,RWL
+3518,Raj Gangpur,GP
+3519,Raj Nandgaon,RJN
+3520,Raja Ka Sahaspr,RJK
+3521,Raja Ki Mandi,RKM
+3522,Rajabera,RJB
+3523,Rajaldesar,RJR
+3524,Rajamundry,RJY
+3525,Rajanagar,RJA
+3526,Rajankunti,RNN
+3527,Rajapalayam,RJPM
+3528,Rajapur Road,RAJP
+3529,Rajawari,RJI
+3530,Rajchandrapur,RCD
+3531,Rajendra Pul,RJO
+3532,Rajendranagar,RJQ
+3533,Rajgarh,RHG
+3534,Rajghat Narora,RG
+3535,Rajgir,RGD
+3536,Rajgram,RJG
+3537,Rajiyasar,RJS
+3538,Rajkharsawan Junction,RKSN
+3539,Rajkiawas,RKZ
+3540,Rajkot Junction,RJT
+3541,Rajmane,RM
+3542,Rajpura Junction,RPJ
+3543,Rajula City,RJU
+3544,Rajula Junction,RLA
+3545,Rakha Mines,RHE
+3546,Rakhiyal,RKH
+3547,Ram Chaura Road,RMC
+3548,Ram Nagar J K,RMJK
+3549,Ramakona,RMO
+3550,Raman,RMN
+3551,Ramanagaram,RMGM
+3552,Ramanathapuram,RMD
+3553,Ramannapet,RMNP
+3554,Ramaraju Palli,RRJ
+3555,Rambha,RBA
+3556,Rambhaddarpur,RBZ
+3557,Ramdevra,RDRA
+3558,Rameswaram,RMM
+3559,Ramganga,RGB
+3560,Ramganj Mandi,RMA
+3561,Ramgarh Cant,RMT
+3562,Ramgarhwa,RGH
+3563,Ramgiri,RGI
+3564,Ramgundam,RDM
+3565,Ramkola,RKL
+3566,Ramna,RMF
+3567,Ramnagar,RMR
+3568,Ramnagar Bengal,RMRB
+3569,Rampur,RMU
+3570,Rampur Bazar,RMPB
+3571,Rampur Dumra,RDUM
+3572,Rampur Hat,RPH
+3573,Rampura Beri,RMB
+3574,Rampura Phul,PUL
+3575,Ramsagar,RSG
+3576,Ranaghat Junction,RHA
+3577,Ranala,RNL
+3578,Ranapratapnagar,RPZ
+3579,Ranavav,RWO
+3580,Ranchi,RNC
+3581,Ranchi Road,RRME
+3582,Rangaliting,RNGG
+3583,Rangapara North,RPAN
+3584,Rangapuram,RGM
+3585,Rangiya Junction,RNY
+3586,Rangmahal,RMH
+3587,Rangtong,RTG
+3588,Rani,RANI
+3589,Ranibennur,RNR
+3590,Raniganj,RNG
+3591,Raniwara,RNV
+3592,Ranjangaon Road,RNJD
+3593,Ranjani,RNE
+3594,Ranoli,RNO
+3595,Ranolishishu,RNIS
+3596,Ranpur,RUR
+3597,Ranthambhore,RNT
+3598,Ranyal Jasmiya,RCJ
+3599,Raoti,RTI
+3600,Rasayani,RSYI
+3601,Rasipuram,RASP
+3602,Rasra,RSR
+3603,Rasulabad,RUB
+3604,Rasuriya,RYS
+3605,Ratan Shahr,RSH
+3606,Ratangarh Junction,RTGH
+3607,Ratangarh West,RXW
+3608,Ratanpur,RPUR
+3609,Ratanpura,RTP
+3610,Rathdhana,RDDE
+3611,Ratlam Junction,RTM
+3612,Ratnagiri,RN
+3613,Ratnapur,RNU
+3614,Rau,RAU
+3615,Rauli,RUL
+3616,Ravalpali Kalan,RPK
+3617,Raver,RV
+3618,Ravikampadu,RVD
+3619,Ravindrakhani,RVKH
+3620,Ravtha Road,RDT
+3621,Rawania Dungar,RWJ
+3622,Raxual Junction,RXL
+3623,Ray,RAY
+3624,Raya,RAYA
+3625,Rayadrug,RDG
+3626,Rayagada,RGDA
+3627,Rayalcheruvu,RLO
+3628,Rayanapad,RYP
+3629,Raybag,RBG
+3630,Razampeta,RJP
+3631,Rechni Road,RECH
+3632,Regupalem,REG
+3633,Rejinagar,REJ
+3634,Ren,REN
+3635,Rengali,RGL
+3636,Renigunta Junction,RU
+3637,Renukut,RNQ
+3638,Renwal,RNW
+3639,Reoti,ROI
+3640,Reoti B Khera,RBK
+3641,Repalle,RAL
+3642,Rethorakalan,RAKL
+3643,Rewa,REWA
+3644,Rewari,RE
+3645,Rewral,RRL
+3646,Rikhabdev Road,RDD
+3647,Ringas Junction,RGS
+3648,Risama,RSA
+3649,Rishikesh,RKSH
+3650,Risia,RS
+3651,Rithi,REI
+3652,Rjndr Ngr Bihar,RJPB
+3653,Rmgrh Shekhwati,RSWT
+3654,Rmkrshnaprm Gte,RKO
+3655,Rningr Jlpaigri,RQJ
+3656,Roberts Ganj,RBGJ
+3657,Robertson,ROB
+3658,Roha,ROHA
+3659,Rohat,RT
+3660,Rohtak Junction,ROK
+3661,Roorkee,RK
+3662,Roshanpur,RHN
+3663,Rotegaon,RGO
+3664,Rourkela,ROU
+3665,Rowriah Sdg,RWH
+3666,Rowta Bagan,RWTB
+3667,Royapuram,RPM
+3668,Roza Junction,ROZA
+3669,Rudauli,RDL
+3670,Rudrapur City,RUPC
+3671,Rukadi,RKD
+3672,Rukmapur,RMY
+3673,Rukni,RUI
+3674,Runkhera,RNH
+3675,Runni Saidpur,RUSD
+3676,Rupamau,RUM
+3677,Rupaund,RPD
+3678,Rupbas,RBS
+3679,Rupnagar,RPAR
+3680,Rupnarayanpur,RNPR
+3681,Rupra Road,RPRD
+3682,Rupsa Junction,ROP
+3683,Rura,RURA
+3684,Rusera Ghat,ROA
+3685,Ruthiyai,RTA
+3686,S Bhakhtiyarpur,SBV
+3687,S K Para,SKAP
+3688,S Narayan Chpla,SNC
+3689,S Venkteswrpalm,SVPM
+3690,Sabarmati Junction,SBI
+3691,Sabarmati Junction,SBT
+3692,Sabaur,SBO
+3693,Sachin,SCH
+3694,Sadar Bazar,DSB
+3695,Sadashivapet Road,SSPD
+3696,Sadat,SDT
+3697,Sadisopur,SDE
+3698,Sadulpur Junction,SDLP
+3699,Sadulshahr,SDS
+3700,Sadura,SDUA
+3701,Safdarganj,SGJ
+3702,Safedabad,SFH
+3703,Safilguda,SFX
+3704,Sagadapata,SGDP
+3705,Sagar Jambagaru,SRF
+3706,Sagardighi,SDI
+3707,Sagauli Junction,SGL
+3708,Sagoni,SAO
+3709,Saharanpur,SRE
+3710,Saharsa Junction,SHC
+3711,Saharsrakund,SHSK
+3712,Sahatwar,STW
+3713,Saheli,SAHL
+3714,Sahibabad,SBB
+3715,Sahibganj Junction,SBG
+3716,Sahibpur Kml Junction,SKJ
+3717,Sahibzada Asngr,SASN
+3718,Sahjanwa,SWA
+3719,Sai P Nilayam,SSPN
+3720,Saidapur,SADP
+3721,Saidraja,SYJ
+3722,Saij Sertha Road,SHRD
+3723,Sainagar Shirdi,SNSI
+3724,Saintala,SFC
+3725,Sainthia,SNT
+3726,Saiyid Sarawan,SYWN
+3727,Sakaldiha,SLD
+3728,Sakhi Gopal,SIL
+3729,Sakhoti Tanda,SKF
+3730,Sakhpur,SKR
+3731,Sakhun,SK
+3732,Sakleshpur,SKLR
+3733,Sakri Junction,SKI
+3734,Sakrigali Junction,SLJ
+3735,Saktesgarh,SKGH
+3736,Sakti,SKT
+3737,Salagaon,SQQ
+3738,Salaia,SYA
+3739,Salamatpur,SMT
+3740,Salanpur,SLS
+3741,Salar,SALE
+3742,Salauna,SLNA
+3743,Salawas,SZ
+3744,Salboni,SLB
+3745,Salchapra,SCA
+3746,Salekasa,SKS
+3747,Salem Junction,SA
+3748,Salem Town,SXT
+3749,Salemgarhmasani,SJSM
+3750,Salempur Junction,SRU
+3751,Sali,SALI
+3752,Salichauka Road,SCKR
+3753,Salkaroad,SLKR
+3754,Salmari,SRI
+3755,Salogra,SLR
+3756,Salpura,SYL
+3757,Salwa,SAL
+3758,Samakhiali,SIO
+3759,Samakhiali B G,SIOB
+3760,Samalkha,SMK
+3761,Samalkot Junction,SLO
+3762,Samalpatti,SLY
+3763,Samarala Halt,SQE
+3764,Samastipur Junction,SPJ
+3765,Samaswara,SMSR
+3766,Samba,SMBX
+3767,Sambalpur,SBP
+3768,Sambalpur City,SBPY
+3769,Sambalpur Road,SBPD
+3770,Sambhar Lake,SBR
+3771,Samdhari Junction,SMR
+3772,Samlaya Junction,SMLA
+3773,Samnapur,SMC
+3774,Sampla,SPZ
+3775,Samsi,SM
+3776,Samudragarh,SMAE
+3777,Samuktala Road,SMTA
+3778,Sanahwal,SNL
+3779,Sanand,SAU
+3780,Sanat Nagar,SNF
+3781,Sanawad,SWD
+3782,Sanchi,SCI
+3783,Sandila,SAN
+3784,Saneh Road,SNX
+3785,Sanganapur,SNGR
+3786,Sanganer,SNGN
+3787,Sangaria,SGRA
+3788,Sangat,SGF
+3789,Sangli,SLI
+3790,Sangmeshwar,SGR
+3791,Sangola,SGLA
+3792,Sangrur,SAG
+3793,Sanichara,SAC
+3794,Sanjali,SNJL
+3795,Sanjan,SJN
+3796,Sank,SANK
+3797,Sanka,SNKR
+3798,Sankarankovil,SNKL
+3799,Sankaridrug,SGE
+3800,Sankarpur,SNQ
+3801,Sankopara,SXP
+3802,Sanosra,SOA
+3803,Sansarpur,SNRR
+3804,Sant Road,SAT
+3805,Santaldih,SNTD
+3806,Santalpur,SNLR
+3807,Santamagulur,SAB
+3808,Santragachi Junction,SRC
+3809,Sanvatsar,SNVR
+3810,Sanverdam Chuch,SVM
+3811,Sanvrad,SVO
+3812,Saoner Junction,SONR
+3813,Saonga Halt,SZH
+3814,Sapatgram,SPX
+3815,Sape Wamne,SAPE
+3816,Sapekhati,SPK
+3817,Saphale,SAH
+3818,Saradhna,SDH
+3819,Saragbundia,SRBA
+3820,Saragchni,SGV
+3821,Sarai,SAI
+3822,Sarai Chandi,SYC
+3823,Sarai Kansrai,SQN
+3824,Sarai Mir,SMZ
+3825,Sarangpur,SFW
+3826,Saraswatinagar,SRWN
+3827,Sarbahara,SBRA
+3828,Sardargram,SDGM
+3829,Sardarnagar,SANR
+3830,Sardarshahr,SRDR
+3831,Sardiha,SUA
+3832,Sareigram,SGAM
+3833,Sareri,SSR
+3834,Sarkoni,SIQ
+3835,Sarnath,SRNT
+3836,Sarola,SRL
+3837,Sarona,SZB
+3838,Sarotra Road,SZA
+3839,Sarupathar,SZR
+3840,Sarupsar Jn,SRPR
+3841,Sarwari,SVD
+3842,Sasaram,SSM
+3843,Sasni,SNS
+3844,Sason,SSN
+3845,Sasthankotta,STKT
+3846,Satara,STR
+3847,Sathajagat,STJT
+3848,Sathi,SAHI
+3849,Sathiaon,SAA
+3850,Sathin Road,SWF
+3851,Satna,STA
+3852,Satnali,STNL
+3853,Satrod,STD
+3854,Sattenapalle,SAP
+3855,Satulur,STUR
+3856,Satuna,SCO
+3857,Satur,SRT
+3858,Saugor,SGO
+3859,Saunshi,SNH
+3860,Sausar,SASR
+3861,Savalyapuram,SYM
+3862,Savanur,SVNR
+3863,Savarda,SVX
+3864,Savarkundla,SVKD
+3865,Savda,SAV
+3866,Sawai Madhopur,SWM
+3867,Sawalgi,SVG
+3868,Sawantwadi Road,SWV
+3869,Sayan,SYN
+3870,Sbb Jogulamba H,SBBJ
+3871,Sbewbabudih,SBW
+3872,Sealdah,SDAH
+3873,Secunderabad Junction,SC
+3874,Sehore,SEH
+3875,Selu,SELU
+3876,Semapur,SMO
+3877,Semari,SES
+3878,Semarkheri,SRKI
+3879,Senchoa Jn,SCE
+3880,Sendra,SEU
+3881,Sengottai,SCT
+3882,Seohara,SEO
+3883,Seoni,SEY
+3884,Seoraphuli,SHE
+3885,Seram,SEM
+3886,Serampore,SRP
+3887,Settihally,SET
+3888,Sevagram,SEGM
+3889,Sewapuri,SWPR
+3890,Seydunganallur,SDNR
+3891,Shadhoragaon,SHDR
+3892,Shadnagar,SHNR
+3893,Shahabad,SDB
+3894,Shahbad Marknda,SHDM
+3895,Shahdol,SDL
+3896,Shahganj Junction,SHG
+3897,Shahjahanpur,SZP
+3898,Shahjehanpur,SPN
+3899,Shahpur Patoree,SPP
+3900,Shahzad Nagar,SAR
+3901,Shaitansinghngr,STSN
+3902,Shajapur,SFY
+3903,Shakti Nagar,SKTN
+3904,Shakurbasti,SSB
+3905,Shalashah Thana,SHLT
+3906,Shalimar,SHM
+3907,Sham Chaurasi,SCQ
+3908,Shambhupura,SMP
+3909,Shamgarh,SGZ
+3910,Shamlaji Road,SJS
+3911,Shamli,SMQL
+3912,Shankargarh,SRJ
+3913,Shankarpalli,SKP
+3914,Shdspra Padmpra,SAS
+3915,Shedbal,SED
+3916,Shegaon,SEG
+3917,Sheikpura,SHK
+3918,Shelgoan H,SLGH
+3919,Shendri,SEI
+3920,Sheo Singh Pura,SHNX
+3921,Sheoprasadnager,SPDR
+3922,Sherekan,SRKN
+3923,Shertalai,SRTL
+3924,Shikara,SKY
+3925,Shikohabad Junction,SKB
+3926,Shimiliaguda,SMLG
+3927,Shimoga,SME
+3928,Shimoga Town,SMET
+3929,Shirravde,SIW
+3930,Shirud,SHF
+3931,Shiupur,SOP
+3932,Shivaji Bridge,CSB
+3933,Shivalingapuram,SLPM
+3934,Shivanarayanpur,SVRP
+3935,Shivani,SHV
+3936,Shivarampur,WSC
+3937,Shivnagar,SHNG
+3938,Shivpura,SVT
+3939,Shivpuri,SVPI
+3940,Shivrampur,SWC
+3941,Shmata V D Ktra,SVDK
+3942,Shoghi,SGS
+3943,Sholavandan,SDN
+3944,Sholinghur,SHU
+3945,Shoranur Junction,SRR
+3946,Shri Amirgadh,SIM
+3947,Shri Balaji,SBLJ
+3948,Shri Bhavnath,SBHN
+3949,Shri Ganganagar,SGNR
+3950,Shri Karanpur,SRW
+3951,Shri Madhopur,SMPR
+3952,Shri Mahabirji,SMBJ
+3953,Shribdrya Lathi,SBLT
+3954,Shridham,SRID
+3955,Shrigonda Road,SGND
+3956,Shrirajnagar,SAGR
+3957,Shrirangapatna,S
+3958,Shrungavarpukta,SUP
+3959,Shujaatpur,SJT
+3960,Shujalpur,SJP
+3961,Shyamnagar,SNR
+3962,Shyampuri,SMPA
+3963,Sibsagar Town,SRTN
+3964,Siddhpur,SID
+3965,Sidhauli,SD
+3966,Sidmukh,SDMK
+3967,Sigadam,SGDM
+3968,Sihapar,SIPR
+3969,Siho,SIHO
+3970,Sihor Gujarat,SOJN
+3971,Sihora Road,SHR
+3972,Sikandarpur,SKQ
+3973,Sikandra Rao,SKA
+3974,Sikar Junction,SIKR
+3975,Sikarpai,SKPI
+3976,Silak Jhori,SZY
+3977,Silao,SILO
+3978,Silapathar,SPTR
+3979,Silaut,SLT
+3980,Silchar,SCL
+3981,Silghat Town,SHTT
+3982,Siliari,SLH
+3983,Siliguri,SGUD
+3984,Siliguri Junction,SGUJ
+3985,Siliguru Town,SGUT
+3986,Silli,SLF
+3987,Simaluguri Junction,SLGR
+3988,Simaria,SAE
+3989,Simbhooli,SMBL
+3990,Simhachalam,SCM
+3991,Simla,SML
+3992,Simultala,STL
+3993,Simurali,SMX
+3994,Sindhawadar,SDD
+3995,Sindhudurg,SNDD
+3996,Sindi,SNI
+3997,Sindkheda,SNK
+3998,Sindpan,SDPN
+3999,Sindriblock Hut,SDBH
+4000,Sindurwa,SYW
+4001,Singaperumlkoil,SKL
+4002,Singapuram Road,SPRD
+4003,Singaram,SGRM
+4004,Singarayakonda,SKM
+4005,Singarpur,SNPR
+4006,Singhpur,SNGP
+4007,Singrauli,SGRL
+4008,Sini Junction,SINI
+4009,Sirajnagar  H,SRJN
+4010,Sirari,SRY
+4011,Siras,SRAS
+4012,Sirathu,SRO
+4013,Sird,SIRD
+4014,Sirhind Junction,SIR
+4015,Siripuram,SRPM
+4016,Sirjam,SRJM
+4017,Sirkazhi,SY
+4018,Sirohi Road,SOH
+4019,Sirpur Kagazngr,SKZR
+4020,Sirpur Town,SRUR
+4021,Sirsa,SSA
+4022,Sirsaul,SSL
+4023,Sirsuphal,SSF
+4024,Sisarka,SSKA
+4025,Sisvinhalli,SVHE
+4026,Siswa Bazar,SBZ
+4027,Sitabinj,STBJ
+4028,Sitafal Mandi,STPD
+4029,Sitalnagar,STNR
+4030,Sitalpur,STLR
+4031,Sitamarhi,SMI
+4032,Sitampet,STPT
+4033,Sitanagaram,SNM
+4034,Sitapur,STP
+4035,Sitapur Cant,SCC
+4036,Sitapur City,SPC
+4037,Sitarampur,STN
+4038,Siuri,SURI
+4039,Sivaganga,SVGA
+4040,Sivajinagar,SVJR
+4041,Sivakasi,SVKS
+4042,Sivungaon,SVN
+4043,Siwaith,SWE
+4044,Siwan Junction,SV
+4045,Siwani,SWNI
+4046,Sleemanabad Road,SBD
+4047,Sodpur,SEP
+4048,Sogra,SOGR
+4049,Sohagpur,SGP
+4050,Sohwal,SLW
+4051,Sojat Road,SOD
+4052,Solan,SOL
+4053,Solan Brewery,SBY
+4054,Solapur Junction,SUR
+4055,Somalapuram,SLM
+4056,Somanayakkanpti,SKPT
+4057,Somanur,SNO
+4058,Somesar,SOS
+4059,Someshwara,SMWA
+4060,Somidevipalle,SDV
+4061,Somna,SOM
+4062,Somnath,SMNH
+4063,Sompeta,SPT
+4064,Somra Bazar,SOAE
+4065,Somtane,SMNE
+4066,Son Nagar,SEB
+4067,Sonada,SAD
+4068,Sonadanga,SVH
+4069,Sonagir,SOR
+4070,Sonai,SYZ
+4071,Sonakhan,SXN
+4072,Sonalli,SI
+4073,Sonasan,SNSN
+4074,Sonbarsa Kcheri,SBM
+4075,Sondad,SNV
+4076,Sondha Road,SCN
+4077,Sonegaon,SNN
+4078,Songadh,SGD
+4079,Soni,SONI
+4080,Sonik,SIC
+4081,Sonipat,SNP
+4082,Sonpur Junction,SEE
+4083,Sonshelu,SNSL
+4084,Sontalai,SQL
+4085,Sonua,SWR
+4086,Sonwara,SWO
+4087,Sorbhog Junction,SBE
+4088,Soro,SORO
+4089,Soron,SRN
+4090,Soron,SRNK
+4091,Sorupeta,SPQ
+4092,Sri Dungargarh,SDGH
+4093,Sri Kalahasti,KHT
+4094,Srikakulam Road,CHE
+4095,Srikrishn Nagar,SKN
+4096,Srinagar,SNAR
+4097,Srinagar,SINA
+4098,Srinivasa Nagar,SHAN
+4099,Sriramnagar,SRNR
+4100,Srirangam,SRGM
+4101,Srivaikuntam,SVV
+4102,Srivilliputtur,SVPR
+4103,Stuartpuram,SPF
+4104,Subarnamrigi,SBNM
+4105,Subedarganj,SFG
+4106,Subrahmanya Roa,SBHR
+4107,Subzi Mandi,SZM
+4108,Sudamdih,SDMD
+4109,Sudhani,SUD
+4110,Sudhrana,SDRA
+4111,Sudsar,SDF
+4112,Suhsarai,SOW
+4113,Suisa,SSIA
+4114,Sujangarh,SUJH
+4115,Sujanpur,SJNP
+4116,Sujnipara,SPLE
+4117,Sukhisewaniyan,SUW
+4118,Sukinda Road,SKND
+4119,Sukna,SN
+4120,Sukrimangela,SOY
+4121,Sukritipur,SQF
+4122,Suku,SXV
+4123,Suku,SUKU
+4124,Suladhal,SUL
+4125,Sulehalli,SUH
+4126,Sulerjavalge,SLGE
+4127,Sulgare,SGRE
+4128,Sulgare,SGRD
+4129,Sullurupeta,SPE
+4130,Sultanganj,SGG
+4131,Sultanpur,SLN
+4132,Sultanpur Lodi,SQR
+4133,Sumer,SUMR
+4134,Summer Hill,SHZ
+4135,Sumreri,SMRR
+4136,Sunak,SUC
+4137,Sunam,SFM
+4138,Sur Khand Ka Kh,SZK
+4139,Sura Nussi,SRX
+4140,Suraimanpur,SIP
+4141,Surajgarh,SRGH
+4142,Surajpur,SUPR
+4143,Surajpur Road,SJQ
+4144,Surareddipalem,SDM
+4145,Surat,ST
+4146,Suratgarh Junction,SOG
+4147,Surathkal,SL
+4148,Suratpura,SURP
+4149,Sureli,SURL
+4150,Surendranagar,SUNR
+4151,Surendranagar G,SRGT
+4152,Surer,SRRG
+4153,Surgaon Banjari,SGBJ
+4154,Suriawan,SAW
+4155,Surpura,SPO
+4156,Suwansa,SWS
+4157,Suwasra,SVA
+4158,Swadinpur,SDLE
+4159,Swarupganj,SRPJ
+4160,Tadakalpudi,TPY
+4161,Tadali,TAE
+4162,Tadepalligudem,TDD
+4163,Tadipatri,TU
+4164,Tadwal,TVL
+4165,Taherpur,THP
+4166,Tahsil Bhadra,TSD
+4167,Tahsil Fatehpur,TSF
+4168,Taiabpur,TBR
+4169,Tajpur,TJP
+4170,Tajpur Dehma,TJD
+4171,Takal,TAKL
+4172,Takari,TKR
+4173,Takarkhede,TKHE
+4174,Takia,TQA
+4175,Takli,TKI
+4176,Takli Bhansali,TKLB
+4177,Taklimiya,TKMY
+4178,Taksal,TSL
+4179,Taku,TAKU
+4180,Talaiyuthu,TAY
+4181,Talakhajuri,TLKH
+4182,Talamanchi,TMC
+4183,Talandu,TLO
+4184,Talbahat,TBT
+4185,Talcher,TLHR
+4186,Talcher Road,TLHD
+4187,Talchhapar,TLC
+4188,Talegaon,TGN
+4189,Talgaria,TLE
+4190,Talguppa,TLGP
+4191,Talit,TIT
+4192,Taljhari,TLJ
+4193,Talmadla,TMD
+4194,Talod,TOD
+4195,Taloja Panchand,TPND
+4196,Talvadya,TLV
+4197,Talwandi,TWB
+4198,Tambaram,TBM
+4199,Tamkuhi Road,TOI
+4200,Tamluk,TMZ
+4201,Tamna,TAO
+4202,Tanakpur,TPU
+4203,Tanda Urmar,TDO
+4204,Tandur,TDU
+4205,Tangarmunda,TGM
+4206,Tangiriapal,TGRL
+4207,Tangla,TNL
+4208,Tangra,TRA
+4209,Tanguturu,TNR
+4210,Tankuppa,TKN
+4211,Tanuku,TNKU
+4212,Tanur,TA
+4213,Tapa,TAPA
+4214,Tapri,TPZ
+4215,Taradevi,TVI
+4216,Tarana Road,TAN
+4217,Taraori,TRR
+4218,Tarapith Road,TPF
+4219,Taregna,TEA
+4220,Targaon,TAZ
+4221,Tarigoppula,TGU
+4222,Tarikere Junction,TKE
+4223,Tarlupadu,TLU
+4224,Tarsarai,TRS
+4225,Taru,TR
+4226,Tatanagar Junction,TATA
+4227,Tatibahar,TBH
+4228,Taticherla,TAC
+4229,Tatisilwai,TIS
+4230,Teghra,TGA
+4231,Tehta,THA
+4232,Tekkabigha,TKBG
+4233,Telam,TQM
+4234,Telaprolu,TOU
+4235,Teliamura,TLMR
+4236,Telo,TELO
+4237,Telta,TETA
+4238,Tenali Junction,TEL
+4239,Tenganmada,TGQ
+4240,Tenkasi Junction,TSI
+4241,Tetelia,TTLA
+4242,Tettu,TTU
+4243,Tetulmari,TET
+4244,Thadi,THY
+4245,Thakurganj,TKG
+4246,Thakurkuchi,TKC
+4247,Thakurtota,TKH
+4248,Thalassery,TLY
+4249,Thallak,THKU
+4250,Thalwara,TLWA
+4251,Than Junction,THAN
+4252,Thana Bihpur Junction,THB
+4253,Thandla Road,THDR
+4254,Thane,TNA
+4255,Thanjavur,TJ
+4256,Tharsa,TAR
+4257,Thathana Mithri,THMR
+4258,Thawe Jn,THE
+4259,Thekeraguri,TGE
+4260,Therubali,THV
+4261,Thiruvarur Junction,TVR
+4262,Thivim,THVM
+4263,Thokur,TOK
+4264,Thondebhavi,TDV
+4265,Thrisur,TCR
+4266,Thuria,THUR
+4267,Tibi,TIBI
+4268,Tihu,TIHU
+4269,Tikaria,TKYR
+4270,Tikekarwadi,TKWD
+4271,Tikiri,TKRI
+4272,Tikunia,TQN
+4273,Tilak Bridge,TKJ
+4274,Tilaru,TIU
+4275,Tilati,TLT
+4276,Tilaya,TIA
+4277,Tilbhita,TBB
+4278,Tilda,TLD
+4279,Tildanga,TDLE
+4280,Tilhar,TLH
+4281,Tiloniya,TL
+4282,Timarni,TBN
+4283,Timbarva,TBV
+4284,Timmanacherla,TIM
+4285,Timmapur,TMX
+4286,Timtala,TMT
+4287,Tindharia,TDH
+4288,Tindivanam,TMV
+4289,Tinpahar Junction,TPH
+4290,Tinsukia Junction,TSK
+4291,Tipkai,TPK
+4292,Tiptur,TTR
+4293,Tiraldih,TUL
+4294,Tirchrpali Fort,TP
+4295,Tirora,TRO
+4296,Tiruchchirapali,TPJ
+4297,Tiruchendur,TCN
+4298,Tiruchrpali Twn,TPTN
+4299,Tiruchrpli Plki,TPE
+4300,Tirukoilur,TRK
+4301,Tirumangalam,TMQ
+4302,Tirunelveli,TEN
+4303,Tirunnavaya,TUA
+4304,Tirupadripulyur,TDPR
+4305,Tiruparankndrm,TDN
+4306,Tirupati,TPTY
+4307,Tirupattur Junction,TPT
+4308,Tiruppur,TUP
+4309,Tirur,TIR
+4310,Tiruttangal,TTL
+4311,Tiruttani,TRT
+4312,Tiruvalla,TRVL
+4313,Tiruvannamalai,TNM
+4314,Tiruverumbur,TRB
+4315,Tisi,TISI
+4316,Tisua,TSA
+4317,Titabar,TTB
+4318,Titagarh,TGH
+4319,Titlagarh,TIG
+4320,Titwa,TTW
+4321,Tivari,TIW
+4322,To Darjeeling,DJR
+4323,To Darjeeling,DJRZ
+4324,Todarpur,TDP
+4325,Tohana,TUN
+4326,Tomka,TMKA
+4327,Topokal,TPQ
+4328,Toranagallu,TNGL
+4329,Torang,TRAN
+4330,Tori,TORI
+4331,Tribeni,TBAE
+4332,Trikarpur,TKQ
+4333,Trilochan Mahdo,TLMD
+4334,Triupunittura,TRTR
+4335,Trivandrum Cntl,TVC
+4336,Trivandrum Pett,TVP
+4337,Trivellore,TRL
+4338,Tsunduru,TSR
+4339,Tufanganj,TFGN
+4340,Tuggali,TGL
+4341,Tuglakabad,TKD
+4342,Tuiya Pani,TPNI
+4343,Tukaithad,TTZ
+4344,Tulin,THO
+4345,Tuljapur,TGP
+4346,Tulsipur,TLR
+4347,Tulwara Jhil,TLI
+4348,Tumkur,TK
+4349,Tumsar Road,TMR
+4350,Tundla Junction,TDL
+4351,Tung,TUNG
+4352,Tuni,TUNI
+4353,Tunia,TUX
+4354,Tupkadih,TKB
+4355,Turavur,TUVR
+4356,Turekala Road,TRKR
+4357,Turkapalli,TKPY
+4358,Turki Road,TZR
+4359,Turtipar,TTI
+4360,Tuti Melur,TME
+4361,Tuticorin,TN
+4362,Tuvvur,TUV
+4363,Twining Ganj,TWG
+4364,Tyada,TXD
+4365,Tyakal,TCL
+4366,Uchana,UCA
+4367,Uchippuli,UCP
+4368,Udagamandalam,UAM
+4369,Udaipur City,UDZ
+4370,Udalguri,ULG
+4371,Udalkachar,UKR
+4372,Udasar,UDS
+4373,Udgir,UDGR
+4374,Udhampur,UHP
+4375,Udhna Junction,UDN
+4376,Udramsar,UMS
+4377,Udupi,UD
+4378,Udvada,UVD
+4379,Ugar Khurd,UGR
+4380,Ugna Halt,UGNA
+4381,Ugrasenpur,URPR
+4382,Ugwe,UGWE
+4383,Ujalvav,UJ
+4384,Ujhani,UJH
+4385,Ujiarpur,UJP
+4386,Ujjain Junction,UJN
+4387,Ukai Songadh,USD
+4388,Ukhali,UKH
+4389,Ukhra,UKA
+4390,Uklana,UKN
+4391,Ukshi,UKC
+4392,Ulavapadu,UPD
+4393,Ulhasnagar,ULNR
+4394,Ullal,ULL
+4395,Ulubaria,ULB
+4396,Umar Tali,UTA
+4397,Umardashi,UM
+4398,Umaria,UMR
+4399,Umaria Ispa Hlt,UIH
+4400,Umbargam Road,UBR
+4401,Umdanagar,UR
+4402,Umed,UMED
+4403,Umra,UMRA
+4404,Umra Nala,ULA
+4405,Umri,UMRI
+4406,Una Himachal,UHL
+4407,Unawa Aithor,UAR
+4408,Unchahar Junction,UCR
+4409,Unchaulia,UCH
+4410,Unchdih,UND
+4411,Unchhera,UHR
+4412,Unchi Bassi,UCB
+4413,Undasa Madhawpu,UDM
+4414,Undi,UNDI
+4415,Unguturu,VGT
+4416,Unhel,UNL
+4417,Unjalur,URL
+4418,Unjha,UJA
+4419,Unnao Junction,ON
+4420,Untare Road,URD
+4421,Uparmal,URML
+4422,Upleta,UA
+4423,Uppal,OPL
+4424,Uppala,UAA
+4425,Uppugunduru,UGD
+4426,Uren,UREN
+4427,Urga,URGA
+4428,Urkura,URK
+4429,Urma,URMA
+4430,Uruli,URI
+4431,Usalapur,USL
+4432,Usmanabad,UMD
+4433,Usmanpur,UPR
+4434,Utarlai,UTL
+4435,Utarsanda,UTD
+4436,Utrahtia,UTR
+4437,Utran,URN
+4438,Uttukuli,UKL
+4439,Vadakara,BDJ
+4440,Vadgaon,VDN
+4441,Vadgaon Nila,VDGN
+4442,Vadgaon Nila,WDN
+4443,Vadlamannadu,VMD
+4444,Vadod,VXD
+4445,Vadodara Junction,BRC
+4446,Vaibhavwadi Road,VBW
+4447,Vaikam Road,VARD
+4448,Vailapuzha,VPZ
+4449,Vaitarna,VTN
+4450,Vakav,WKA
+4451,Valapattanam,VAPM
+4452,Valappadi G Hlt,VGE
+4453,Valathoor,VLT
+4454,Valivade,VV
+4455,Valivade,VVE
+4456,Valiveru,VRU
+4457,Vallikunnu,VLI
+4458,Valliyur,VLY
+4459,Valsad,BL
+4460,Vambori,VBR
+4461,Vangani,VGI
+4462,Vangaon,VGN
+4463,Vaniyambadi,VN
+4464,Vaniyambalam,VNB
+4465,Vapi,VAPI
+4466,Varahi,VRX
+4467,Varanasi City,BCY
+4468,Varanasi Junction,BSB
+4469,Varangaon,VNA
+4470,Varediya,VRE
+4471,Varkala,VAK
+4472,Varnama,VRM
+4473,Vartej,VTJ
+4474,Varvala,VVA
+4475,Vasad Junction,VDA
+4476,Vasai Road,BSR
+4477,Vasco Da Gama,VSG
+4478,Vatlur,VAT
+4479,Vatva,VTA
+4480,Vedayapalem,VDE
+4481,Vedchha,VDH
+4482,Veer,VEER
+4483,Vejandla,VJA
+4484,Velalacheruv Ht,VLCA
+4485,Velankanni,VLKN
+4486,Veli,VELI
+4487,Vellacheruvu,VLE
+4488,Vellankanni,VLNK
+4489,Vellore Cant,VLR
+4490,Vellore Town,VT
+4491,Vemuru,VMU
+4492,Vendodu,VDD
+4493,Vendra,VND
+4494,Venkatachalam,VKT
+4495,Venkatagiri,VKI
+4496,Venkatnagra,VKR
+4497,Veraval,VRL
+4498,Verka Junction,VKA
+4499,Verna,VEN
+4500,Vetapalemu,VTM
+4501,Vidisha,BHS
+4502,Viduraswattha,VWA
+4503,Vidyapatidham,VPDA
+4504,Vidyapatinagar,VPN
+4505,Vidyasagar,VDS
+4506,Vijapur,VJF
+4507,Vijay Pur,VJP
+4508,Vijayawada Junction,BZA
+4509,Vijiypur Jammu,VJPJ
+4510,Vikarabad Junction,VKB
+4511,Vikhran Road,VKH
+4512,Vikramgarh Alot,VMA
+4513,Vikramnagar,VRG
+4514,Vilad,VL
+4515,Vilavade,VID
+4516,Vilayatkalan Road,VYK
+4517,Villuparam Junction,VM
+4518,Vindhyachal,BDL
+4519,Vinhere,VINH
+4520,Vinukonda,VKN
+4521,Viramgam Junction,VG
+4522,Virani Alur,VRLR
+4523,Virapur,VP
+4524,Virar,VR
+4525,Viravada,VRV
+4526,Viravalli,VRVL
+4527,Viravasaram,VVM
+4528,Virbhadra,VRH
+4529,Virpur,VRR
+4530,Virudunagar Junction,VPT
+4531,Visapur,VPR
+4532,Vishakapatnam,VSKP
+4533,Vishnupuram,VNUP
+4534,Vishrambag,VRB
+4535,Vishvamitri,VSI
+4536,Vishvamitri,VS
+4537,Viswanath Chrli,VNE
+4538,Vithisvarankol,VDL
+4539,Viveka Vihar,VVB
+4540,Vizianagram Junction,VZM
+4541,Vridhachalam Junction,VRI
+4542,Vyara,VYA
+4543,Vyasnagar,VYN
+4544,W R S Colony Ph,WRC
+4545,Wadakancheri,WKI
+4546,Wadegaon,WDG
+4547,Wadhwan City,WC
+4548,Wadi,WADI
+4549,Wadiaram,WDR
+4550,Wadrengdisa,WDA
+4551,Wadsa,WSA
+4552,Wadsinge,WDS
+4553,Wadwal Nagnath,WDLN
+4554,Wair,WAIR
+4555,Walajah Road Junction,WJR
+4556,Wan Road,WND
+4557,Wanegaon,WNG
+4558,Wani,WANI
+4559,Wankaner Junction,WKR
+4560,Wanparti Road,WPR
+4561,Wansjaliya,WSJ
+4562,Warangal,WL
+4563,Wardha Junction,WR
+4564,Waria,OYR
+4565,Waris Aleganj,WRS
+4566,Warora,WRR
+4567,Warud Orange Ct,WOC
+4568,Washermanpet,WST
+4569,Washim,WHM
+4570,Washimbe,WSB
+4571,Wathar,WTR
+4572,Wazerganj,WZJ
+4573,Wellington,WEL
+4574,Wena,WENA
+4575,Whitefield,WFD
+4576,Wihirgaon,VHGN
+4577,Wirur,WIRR
+4578,Wyndhamganj,WDM
+4579,Xxxxxxxxxxxxxx,BDVR
+4580,Yadgir,YG
+4581,Yalvigi,YLG
+4582,Yamuna Bdg Agra,JAB
+4583,Yamunanagar Jud,YJUD
+4584,Yataluru,YAL
+4585,Yedamangala,YDM
+4586,Yedshi,YSI
+4587,Yelhanka Junction,YNK
+4588,Yeliyur,Y
+4589,Yellakaru,YLK
+4590,Yeola,YL
+4591,Yerpedu,YPD
+4592,Yerraguntla,YA
+4593,Yesvantpur Junction,YPR
+4594,Yevat,YT
+4595,Yusufpur,YFP
+4596,Zafarabad Junction,ZBD
+4597,Zahirabad,ZB
+4598,Zamania,ZNA
+4599,Zampini,ZPI
+4600,Zangalapalle,ZPL
+4601,Zarap,ZARP
+4602,Zawar,ZW
